@@ -1,0 +1,173 @@
+schema_version
+	dummy_id - INTEGER
+	schema_version - INT
+sequence_0
+	sequence_value - INTEGER
+sequence_1
+	sequence_value - INTEGER
+sequence_2
+	sequence_value - INTEGER
+enumerations
+	enum_id - INTEGER
+	enum_name - VARCHAR(512)
+enumeration_constants
+	enum_id - INT
+	enum_value_name - VARCHAR(512)
+	value - INT
+	is_default - CHAR(1)
+object_types
+	object_type_id - INTEGER
+	object_type_name - VARCHAR(512)
+	object_type_flags - INT
+	largest_object_length - INT
+features
+	object_type_id - INT
+	feature_name - VARCHAR(512)
+	feature_type_id - INT
+	default_value - TEXT
+	computed - CHAR(1)
+max_m
+	dummy_id - INTEGER
+	max_m - INT
+min_m
+	dummy_id - INTEGER
+	min_m - INT
+monad_sets
+	monad_set_id - INTEGER
+	monad_set_name - VARCHAR(512)
+monad_sets_monads
+	monad_set_id - INT
+	mse_first - INT
+	mse_last - INT
+book_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+	mdf_code - TEXT
+chapter_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+	mdf_chapter - INT
+	mdf_code - TEXT
+verse_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+	mdf_verse - INT
+	mdf_chapter - INT
+	mdf_code - TEXT
+ref_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+	mdf_loc - TEXT
+word_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	mdf_docindex - INT
+	mdf_crasis_status - INT
+	mdf_strongs - INT
+	mdf_crasis_lemma - INT
+	mdf_lemma - INT
+	mdf_bn_lemma - INT
+	mdf_simpletag - INT
+	mdf_longtag - INT
+	mdf_wholesurface - TEXT
+	mdf_post - TEXT
+	mdf_surface - TEXT
+	mdf_pre - TEXT
+	mdf_refid - TEXT
+word_mdf_strongs_set
+	id_d - INTEGER
+	string_value - TEXT
+word_mdf_crasis_lemma_set
+	id_d - INTEGER
+	string_value - TEXT
+word_mdf_lemma_set
+	id_d - INTEGER
+	string_value - TEXT
+word_mdf_bn_lemma_set
+	id_d - INTEGER
+	string_value - TEXT
+word_mdf_simpletag_set
+	id_d - INTEGER
+	string_value - TEXT
+word_mdf_longtag_set
+	id_d - INTEGER
+	string_value - TEXT
+punctuation_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	mdf_docindex - INT
+	mdf_post - INT
+	mdf_surface - INT
+	mdf_pre - INT
+punctuation_mdf_post_set
+	id_d - INTEGER
+	string_value - TEXT
+punctuation_mdf_surface_set
+	id_d - INTEGER
+	string_value - TEXT
+punctuation_mdf_pre_set
+	id_d - INTEGER
+	string_value - TEXT
+token_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	mdf_docindex - INT
+	mdf_post - TEXT
+	mdf_surface - TEXT
+	mdf_pre - TEXT
+sentence_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+ot_quote_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+b_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+p_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_docindex - INT
+	mdf_lang - INT
+	mdf_ptype - INT
+p_mdf_lang_set
+	id_d - INTEGER
+	string_value - TEXT
+p_mdf_ptype_set
+	id_d - INTEGER
+	string_value - TEXT
+sqlite_stat1
+	tbl - 
+	idx - 
+	stat - 
+emdrosdbinfo_objects
+	object_id_d - INT
+	first_monad - INTEGER
+	last_monad - INT
+	mdf_stylesheet - TEXT
+	mdf_metadata - TEXT
+	mdf_token_feature_name - TEXT
+	mdf_token_object_type - TEXT
+	mdf_bookcase_title_feature_name - TEXT
+	mdf_bookcase_title_object_type - TEXT
+	mdf_bookcase_object_type - TEXT
+	mdf_fts_search - TEXT
+	mdf_dbtype - TEXT
+	mdf_languages - TEXT
+	mdf_abbreviation - TEXT
+	mdf_dbname - TEXT

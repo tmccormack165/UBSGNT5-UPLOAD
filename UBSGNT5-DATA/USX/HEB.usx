@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="2.6">
+  <book code="HEB" style="id" />
+  <para style="toc3">He</para>
+  <para style="toc2">Πρὸς Ἑβραίους</para>
+  <para style="toc1">ΠΡΟΣ ΕΒΡΑΙΟΥΣ</para>
+  <para style="mt">ΠΡΟΣ ΕΒΡΑΙΟΥΣ</para>
+  <chapter number="1" style="c" />
+  <para style="s">God Has Spoken by His Son</para>
+  <para style="p">
+    <verse number="1" style="v" />Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">1.2 </char><char style="xq" closed="false">ὃν … πάντων </char><char style="xt" closed="false"><ref loc="PSA 2:8">Ps 2.8</ref>; <ref loc="MAT 21:38">Mt 21.38</ref> </char><char style="xq" closed="false">δι᾽ … αἰῶνας </char><char style="xt" closed="false"><ref loc="JHN 1:3">Jn 1.3</ref>; <ref loc="COL 1:16">Col 1.16</ref></char></note>ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ, ὃν ἔθηκεν κληρονόμον πάντων, δι᾽ οὗ καὶ ἐποίησεν τοὺς αἰῶνας· <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">1.3 </char><char style="xq" closed="false">χαρακτὴρ … αὐτοῦ </char><char style="xt" closed="false"><ref loc="2CO 4:4">2 Cor 4.4</ref>; <ref loc="COL 1:15">Col 1.15</ref> </char><char style="xq" closed="false">ἐκάθισεν … ὑψηλοῖς </char><char style="xt" closed="false"><ref loc="PSA 110:1">Ps 110.1</ref>; <ref loc="MAT 22:44">Mt 22.44</ref>; <ref loc="MRK 16:19">Mk 16.19</ref>; <ref loc="ACT 2:34">Ac 2.34</ref>; <ref loc="EPH 1:20">Eph 1.20</ref>; <ref loc="HEB 8:1">He 8.1</ref>; <ref loc="HEB 10:12">10.12</ref>; <ref loc="HEB 12:2">12.2</ref></char></note>ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, καθαρισμὸν<note caller="1" style="f"><char style="fr" closed="false">1.3 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">τῆς δυνάμεως αὐτοῦ, καθαρισμόν </char><char style="ft" closed="false">ℵ A B H* P Ψ 075 0150 33 81 436 1175 1962 2464 it<char style="add">t, v</char> vg syr<char style="add">pal</char> arm geo<char style="add">1</char> Didymus<char style="add">dub</char> Cyril John-Damascus<char style="add">mss</char> ⫽ </char><char style="fk" closed="false">τῆς δυνάμεως, δι᾽ ἑαυτοῦ καθαρισμόν </char><char style="ft" closed="false">(𝔓<char style="add">46</char> </char><char style="fk" closed="false">αὐτοῦ</char><char style="ft" closed="false">) 0243 6 424<char style="add">c</char> 1739 1881* ⫽ </char><char style="fk" closed="false">τῆς δυνάμεως αὐτοῦ, δι᾽ ἑαυτοῦ </char><char style="ft" closed="false">(<char style="it">or</char> </char><char style="fk" closed="false">αὑτοῦ </char><char style="ft" closed="false"><char style="it">or</char> </char><char style="fk" closed="false">αὐτοῦ) καθαρισμόν </char><char style="ft" closed="false">D H<char style="add">c</char> 104 256 263 365 424* 459 1241 1319 1573 1852 1881<char style="add">c</char> 1912 2127 2200 <char style="it">Byz</char> [K L] <char style="it">Lect</char> it<char style="add">ar, b, comp, d</char> vg<char style="add">ms</char> syr<char style="add">(p), h</char> cop<char style="add">sa, bo, fay</char> (eth) geo<char style="add">2</char> slav Chrysostom John-Damascus; Augustine Varimadum</char></note> τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς, <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">1.4 </char><char style="xq" closed="false">διαφορώτερον … ὄνομα </char><char style="xt" closed="false"><ref loc="EPH 1:21">Eph 1.21</ref>; <ref loc="PHP 2:9">Php 2.9</ref></char></note>τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων ὅσῳ διαφορώτερον παρ᾽ αὐτοὺς κεκληρονόμηκεν ὄνομα.</para>
+  <para style="s">The Son Superior to Angels</para>
+  <para style="p">
+    <verse number="5" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.5 </char>
+      <char style="xq" closed="false">Υἱός … σε </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 2:7">Ps 2.7</ref> (<ref loc="ACT 13:33">Ac 13.33</ref>; <ref loc="HEB 5:5">He 5.5</ref>) </char>
+      <char style="xq" closed="false">Ἐγὼ … υἱόν </char>
+      <char style="xt" closed="false">
+        <ref loc="2SA 7:14">2 Sm 7.14</ref>; <ref loc="1CH 17:13">1 Chr 17.13</ref></char>
+    </note>Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων,</para>
+  <para style="q1">
+    <char style="qt">Υἱός μου εἶ σύ,</char></para>
+  <para style="q2">
+    <char style="qt">ἐγὼ σήμερον γεγέννηκά σε;</char></para>
+  <para style="m">καὶ πάλιν,</para>
+  <para style="q1">
+    <char style="qt">Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ αὐτὸς ἔσται μοι εἰς υἱόν;</char></para>
+  <para style="m">
+    <verse number="6" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.6 </char>
+      <char style="xq" closed="false">Καὶ … θεοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="DEU 32:43">Dt 32.43</ref> <char style="sc">lxx</char> (<ref loc="PSA 97:7">Ps 97.7</ref>)</char>
+    </note>ὅταν δὲ πάλιν εἰσαγάγῃ τὸν πρωτότοκον εἰς τὴν οἰκουμένην, λέγει,</para>
+  <para style="q1">
+    <char style="qt">Καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ.</char></para>
+  <para style="m">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.7 </char>
+      <char style="xq" closed="false">Ὁ ποιῶν … φλόγα </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 104:4">Ps 104.4</ref>
+      </char>
+    </note>καὶ πρὸς μὲν τοὺς ἀγγέλους λέγει,</para>
+  <para style="q1">
+    <char style="qt">Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα</char></para>
+  <para style="q2">
+    <char style="qt">καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα,</char></para>
+  <para style="m">
+    <verse number="8" style="v" />πρὸς δὲ τὸν υἱόν,</para>
+  <para style="q1">
+    <char style="qt">Ὁ θρόνος σου ὁ θεὸς εἰς τὸν αἰῶνα τοῦ αἰῶνος,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἡ ῥάβδος τῆς εὐθύτητος ῥάβδος τῆς βασιλείας σου</char>
+    <note caller="2" style="f">
+      <char style="fr" closed="false">1.8 </char>
+      <char style="ft" closed="false">{B} </char>
+      <char style="fk" closed="false">σου </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="PSA 45:7">Ps 45.7</ref>)</char> A D Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, d, t, v</char> vg syr<char style="add">p, h, pal<char style="add">ms</char></char> cop<char style="add">sa, bo, fay</char> arm eth geo slav Gregory-Nyssa Chrysostom Cyril Theodoret; Jerome ⫽ </char>
+      <char style="fk" closed="false">αὐτοῦ </char>
+      <char style="ft" closed="false">𝔓<char style="add">46</char> ℵ B REB EU BJ ⫽ <char style="it">omit</char> 1573 syr<char style="add">pal<char style="add">ms</char></char></char>
+    </note>.</para>
+  <para style="q1">
+    <verse number="9" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.8‑9 </char>
+      <char style="xq" closed="false">Ὁ θρόνος … μετόχους σου </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 45:6-7">Ps 45.6‑7</ref>
+      </char>
+    </note>
+    <char style="qt">ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν·</char></para>
+  <para style="q1">
+    <char style="qt">διὰ τοῦτο ἔχρισέν σε</char>
+    <note caller="a" style="f">
+      <char style="fr" closed="false">1.9 </char>
+      <char style="ft" closed="false">C: AD M REB EU LB BJ NBS TOB DHH<char style="add">mg</char> </char>
+      <char style="fk" closed="false">||</char>
+    </note> <char style="qt">ὁ θεὸς</char><note caller="b" style="f"><char style="fr" closed="false">1.9 </char><char style="ft" closed="false">C: AD M TR WH GNB NIV NRSV REB EU LB BJ NBS TOB BTI BTI<char style="add">mg</char> DHH DHH<char style="add">mg</char> </char><char style="fk" closed="false">||</char></note> <char style="qt">ὁ θεός σου</char><note caller="c" style="f"><char style="fr" closed="false">1.9 </char><char style="ft" closed="false">C: TR WH GNB NIV NRSV REB<char style="add">mg</char> DHH BTI BTI<char style="add">mg</char></char></note></para>
+  <para style="q2">
+    <char style="qt">ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου.</char></para>
+  <para style="m">
+    <verse number="10" style="v" />καί,</para>
+  <para style="q1">
+    <char style="qt">Σὺ κατ᾽ ἀρχάς, κύριε, τὴν γῆν ἐθεμελίωσας,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί·</char></para>
+  <para style="q1">
+    <verse number="11" style="v" />
+    <char style="qt">αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,</char></para>
+  <para style="q1">
+    <verse number="12" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.10‑12 </char>
+      <char style="xq" closed="false">Σὺ … ἐκλείψουσιν </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 102:25-27">Ps 102.25‑27</ref>
+      </char>
+    </note>
+    <char style="qt">καὶ ὡσεὶ περιβόλαιον ἑλίξεις</char>
+    <note caller="3" style="f">
+      <char style="fr" closed="false">1.12 </char>
+      <char style="ft" closed="false">{A} </char>
+      <char style="fk" closed="false">ἑλίξεις </char>
+      <char style="ft" closed="false">(<char style="it">or</char> </char>
+      <char style="fk" closed="false">εἱλίξεις</char>
+      <char style="ft" closed="false">) 𝔓<char style="add">46</char> ℵ<char style="add">2</char> A B D<char style="add">2</char> Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, v</char> vg<char style="add">st</char> syr<char style="add">p, h, pal</char> arm eth geo slav Chrysostom Cyril ⫽ </char>
+      <char style="fk" closed="false">ἀλλάξεις </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt">Ps 101.27 <char style="sc">lxx</char>)</char> ℵ* D* it<char style="add">comp, d, t</char> vg<char style="add">cl, ww</char> Athanasius</char>
+    </note> <char style="qt">αὐτούς,</char></para>
+  <para style="q2">ὡς ἱμάτιον <char style="qt">καὶ</char><note caller="4" style="f"><char style="fr" closed="false">1.12 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">ὡς ἱμάτιον καί </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A B (D* <char style="it">omit</char> </char><char style="fk" closed="false">καί</char><char style="ft" closed="false">) 1739 (it<char style="add">d</char>) vg<char style="add">mss</char> (syr<char style="add">pal<char style="add">ms</char></char>) cop<char style="add">fay</char> arm ⫽ </char><char style="fk" closed="false">καί </char><char style="ft" closed="false">(<char style="it">see</char> <char style="xt">Ps 101.27 <char style="sc">lxx</char>)</char> D<char style="add">2</char> Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, t, v</char> vg syr<char style="add">(p), h, (pal<char style="add">ms</char>)</char> cop<char style="add">sa, bo</char> eth geo slav Athanasius Chrysostom Cyril</char></note> <char style="qt">ἀλλαγήσονται·</char></para>
+  <para style="q1">
+    <char style="qt">σὺ δὲ ὁ αὐτὸς εἶ</char></para>
+  <para style="q2">
+    <char style="qt">καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.</char></para>
+  <para style="m">
+    <verse number="13" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.13 </char>
+      <char style="xq" closed="false">Κάθου … ποδῶν σου </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 110:1">Ps 110.1</ref>
+      </char>
+    </note>πρὸς τίνα δὲ τῶν ἀγγέλων εἴρηκέν ποτε,</para>
+  <para style="q1">
+    <char style="qt">Κάθου ἐκ δεξιῶν μου,</char></para>
+  <para style="q2">
+    <char style="qt">ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου;</char></para>
+  <para style="m">
+    <verse number="14" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">1.14 </char>
+      <char style="xq" closed="false">εἰς … σωτηρίαν </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 34:7">Ps 34.7</ref>; <ref loc="PSA 91:11">91.11</ref></char>
+    </note>οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν;</para>
+  <chapter number="2" style="c" />
+  <para style="s">The Great Salvation</para>
+  <para style="p">
+    <verse number="1" style="v" />Διὰ τοῦτο δεῖ περισσοτέρως προσέχειν ἡμᾶς τοῖς ἀκουσθεῖσιν, μήποτε παραρυῶμεν. <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.2 </char><char style="xq" closed="false">ὁ δι᾽ … λόγος </char><char style="xt" closed="false"><ref loc="ACT 7:38">Ac 7.38</ref>, <ref loc="ACT 7:53">53</ref>; <ref loc="GAL 3:19">Ga 3.19</ref></char></note>εἰ γὰρ ὁ δι᾽ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν, <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.3 </char><char style="xq" closed="false">πῶς … σωτηρίας </char><char style="xt" closed="false"><ref loc="HEB 10:29">He 10.29</ref>; <ref loc="HEB 12:25">12.25</ref></char></note>πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας, ἥτις ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη, <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.4 </char><char style="xq" closed="false">πνεύματος … θέλησιν </char><char style="xt" closed="false"><ref loc="1CO 12:4">1 Cor 12.4</ref>, <ref loc="1CO 12:11">11</ref></char></note>συνεπιμαρτυροῦντος τοῦ θεοῦ σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν καὶ πνεύματος ἁγίου μερισμοῖς κατὰ τὴν αὐτοῦ θέλησιν;</para>
+  <para style="s">The Pioneer of Salvation</para>
+  <para style="p">
+    <verse number="5" style="v" />Οὐ γὰρ ἀγγέλοις ὑπέταξεν τὴν οἰκουμένην τὴν μέλλουσαν, περὶ ἧς λαλοῦμεν. <verse number="6" style="v" />διεμαρτύρατο δέ πού τις λέγων,</para>
+  <para style="q1">
+    <char style="qt">Τί ἐστιν ἄνθρωπος ὅτι μιμνῄσκῃ αὐτοῦ,</char></para>
+  <para style="q2">
+    <char style="qt">ἢ υἱὸς ἀνθρώπου ὅτι ἐπισκέπτῃ αὐτόν;</char></para>
+  <para style="q1">
+    <verse number="7" style="v" />
+    <char style="qt">ἠλάττωσας αὐτὸν βραχύ τι παρ᾽ ἀγγέλους,</char></para>
+  <para style="q2">
+    <char style="qt">δόξῃ καὶ τιμῇ ἐστεφάνωσας αὐτόν</char>
+    <note caller="1" style="f">
+      <char style="fr" closed="false">2.7 </char>
+      <char style="ft" closed="false">{B} </char>
+      <char style="fk" closed="false">αὐτόν </char>
+      <char style="ft" closed="false">𝔓<char style="add">46</char> B D<char style="add">2</char> 075 424* 1175 1241 (1319 </char>
+      <char style="fk" closed="false">αὐτούς</char>
+      <char style="ft" closed="false">) 1852 2200 <char style="it">Byz</char> [K L] <char style="it">Lect</char><char style="add">pt, AD</char> vg<char style="add">ms</char> geo<char style="add">2</char> Theodoret ⫽ </char>
+      <char style="fk" closed="false">αὐτόν, καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="PSA 8:6">Ps 8.6</ref> <char style="sc">lxx</char>)</char> ℵ A C D* P Ψ 0150 0243 6 33 81 104 256 263 365 424<char style="add">c</char> 436 459 1573 1739 1881 1912 1962 2127 2464 <char style="it">Lect</char><char style="add">pt</char> it<char style="add">ar, b, comp, d, v</char> vg (syr<char style="add">p, h with *</char>) cop<char style="add">(sa), bo, (fay)</char> arm eth geo<char style="add">1</char> slav Chrysostom</char>
+    </note>,</para>
+  <para style="q2">
+    <verse number="8" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">2.6‑8 </char>
+      <char style="xq" closed="false">Τί … αὐτοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 8:5-7">Ps 8.5‑7</ref> <char style="sc">lxx</char></char>
+    </note>
+    <note caller="*" style="x">
+      <char style="xo" closed="false">2.8 </char>
+      <char style="xq" closed="false">πάντα … ἀνυπότακτον </char>
+      <char style="xt" closed="false">
+        <ref loc="1CO 15:27">1 Cor 15.27</ref>
+      </char>
+    </note>
+    <char style="qt">πάντα ὑπέταξας ὑποκάτω τῶν ποδῶν αὐτοῦ.</char></para>
+  <para style="m">ἐν τῷ γὰρ ὑποτάξαι [αὐτῷ]<note caller="2" style="f"><char style="fr" closed="false">2.8 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">αὐτῷ </char><char style="ft" closed="false">ℵ A C D Ψ 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp</char> vg syr<char style="add">p, h</char> cop<char style="add">sa, bo</char> eth geo slav Chrysostom ⫽ <char style="it">omit</char> 𝔓<char style="add">46</char> B (075 <char style="it">omit</char> </char><char style="fk" closed="false">ἐν τῷ … ἀνυπότακτον</char><char style="ft" closed="false">) it<char style="add">d, v</char> vg<char style="add">mss</char> cop<char style="add">bo<char style="add">ms</char></char> arm Ambrose</char></note> τὰ πάντα οὐδὲν ἀφῆκεν αὐτῷ ἀνυπότακτον. νῦν δὲ οὔπω ὁρῶμεν αὐτῷ τὰ πάντα ὑποτεταγμένα· <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.9 </char><char style="xq" closed="false">τὸν … ἐστεφανωμένον </char><char style="xt" closed="false"><ref loc="PHP 2:8-9">Php 2.8‑9</ref></char></note>τὸν δὲ βραχύ τι παρ᾽ ἀγγέλους ἠλαττωμένον βλέπομεν Ἰησοῦν διὰ τὸ πάθημα τοῦ θανάτου δόξῃ καὶ τιμῇ ἐστεφανωμένον, ὅπως χάριτι θεοῦ<note caller="3" style="f"><char style="fr" closed="false">2.9 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">χάριτι θεοῦ </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A B C D Ψ 075 0150 6 33 81 104 256 263 365 424* 436 459 1175 1241 1319 1573 1739<char style="add">v. r.<char style="add">vid</char></char> 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, d, v</char> vg syr<char style="add">p, h, pal</char> cop<char style="add">sa, bo, fay</char> arm eth geo slav mss<char style="add">acc. to Origen</char> Origen<char style="add">gr</char> Athanasius Didymus Chrysostom mss<char style="add">acc. to Theodore</char> Cyril Theodoret<char style="add">1/2</char> Ps-Oecumenius; Faustinus Jerome ⫽ </char><char style="fk" closed="false">χωρὶς θεοῦ </char><char style="ft" closed="false">0243 424<char style="add">c vid</char> 1739<char style="add">txt</char> vg<char style="add">ms</char> Origen<char style="add">gr<char style="add">v. r.</char>, lat</char> mss<char style="add">acc. to Origen</char> Theodore Nestorians<char style="add">acc. to Ps-Oecumenius</char> Theodoret<char style="add">1/2, lem</char>; Ambrose mss<char style="add">acc. to Jerome</char> Vigilius Fulgentius</char></note> ὑπὲρ παντὸς γεύσηται θανάτου.</para>
+  <para style="p">
+    <verse number="10" style="v" />Ἔπρεπεν γὰρ αὐτῷ, δι᾽ ὃν τὰ πάντα καὶ δι᾽ οὗ τὰ πάντα, πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν διὰ παθημάτων τελειῶσαι. <verse number="11" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.11 </char><char style="xq" closed="false">οὐκ … καλεῖν </char><char style="xt" closed="false"><ref loc="MAT 25:40">Mt 25.40</ref>; <ref loc="MRK 3:35">Mk 3.35</ref>; <ref loc="JHN 20:17">Jn 20.17</ref></char></note>ὅ τε γὰρ ἁγιάζων καὶ οἱ ἁγιαζόμενοι ἐξ ἑνὸς πάντες· δι᾽ ἣν αἰτίαν οὐκ ἐπαισχύνεται ἀδελφοὺς αὐτοὺς καλεῖν <verse number="12" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.12 </char><char style="xq" closed="false">Ἀπαγγελῶ … σε </char><char style="xt" closed="false"><ref loc="PSA 22:22">Ps 22.22</ref></char></note>λέγων,</para>
+  <para style="q1">
+    <char style="qt">Ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου,</char></para>
+  <para style="q2">
+    <char style="qt">ἐν μέσῳ ἐκκλησίας ὑμνήσω σε,</char></para>
+  <para style="m">
+    <verse number="13" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">2.13 </char>
+      <char style="xq" closed="false">Ἐγὼ … αὐτῷ </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 8:17">Is 8.17</ref> <char style="sc">lxx</char> (<ref loc="2SA 22:3">2 Sm 22.3</ref> <char style="sc">lxx</char>; <ref loc="ISA 12:2">Is 12.2</ref>) </char>
+      <char style="xq" closed="false">Ἰδοὺ … θεός </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 8:18">Is 8.18</ref>
+      </char>
+    </note>καὶ πάλιν,</para>
+  <para style="q1">
+    <char style="qt">Ἐγὼ ἔσομαι πεποιθὼς ἐπ᾽ αὐτῷ,</char></para>
+  <para style="m">καὶ πάλιν,</para>
+  <para style="q1">
+    <char style="qt">Ἰδοὺ ἐγὼ καὶ τὰ παιδία ἅ μοι ἔδωκεν ὁ θεός.</char></para>
+  <para style="m">
+    <verse number="14" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">2.14 </char>
+      <char style="xq" closed="false">καταργήσῃ … διάβολον </char>
+      <char style="xt" closed="false">
+        <ref loc="JHN 12:31">Jn 12.31</ref>; <ref loc="1JN 3:8">1 Jn 3.8</ref>; <ref loc="REV 12:10">Re 12.10</ref></char>
+    </note>ἐπεὶ οὖν τὰ παιδία κεκοινώνηκεν αἵματος καὶ σαρκός, καὶ αὐτὸς παραπλησίως μετέσχεν τῶν αὐτῶν, ἵνα διὰ τοῦ θανάτου καταργήσῃ τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, τοῦτ᾽ ἔστιν τὸν διάβολον, <verse number="15" style="v" />καὶ ἀπαλλάξῃ τούτους, ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας. <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.16 </char><char style="xq" closed="false">σπέρματος Ἀβραὰμ ἐπιλαμβάνεται </char><char style="xt" closed="false"><ref loc="ISA 41:8-9">Is 41.8‑9</ref></char></note>οὐ γὰρ δήπου ἀγγέλων ἐπιλαμβάνεται ἀλλὰ σπέρματος Ἀβραὰμ ἐπιλαμβάνεται. <verse number="17" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.17 </char><char style="xq" closed="false">κατὰ … ὁμοιωθῆναι </char><char style="xt" closed="false"><ref loc="PHP 2:7">Php 2.7</ref>; <ref loc="HEB 2:14">He 2.14</ref> </char><char style="xq" closed="false">τὸ … λαοῦ </char><char style="xt" closed="false"><ref loc="1JN 2:2">1 Jn 2.2</ref>; <ref loc="1JN 4:10">4.10</ref></char></note>ὅθεν ὤφειλεν κατὰ πάντα τοῖς ἀδελφοῖς ὁμοιωθῆναι, ἵνα ἐλεήμων γένηται καὶ πιστὸς ἀρχιερεὺς τὰ πρὸς τὸν θεὸν εἰς τὸ ἱλάσκεσθαι τὰς ἁμαρτίας τοῦ λαοῦ. <verse number="18" style="v" /><note caller="*" style="x"><char style="xo" closed="false">2.18 </char><char style="xt" closed="false"><ref loc="HEB 4:15">He 4.15</ref></char></note>ἐν ᾧ γὰρ πέπονθεν αὐτὸς πειρασθείς, δύναται τοῖς πειραζομένοις βοηθῆσαι.</para>
+  <chapter number="3" style="c" />
+  <para style="s">Jesus Superior to Moses</para>
+  <para style="p">
+    <verse number="1" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">3.1 </char>
+      <char style="xq" closed="false">ἀρχιερέα … Ἰησοῦν </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 4:14">He 4.14</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 7:26">7.26</ref>; <ref loc="HEB 8:1">8.1</ref>; <ref loc="HEB 9:11">9.11</ref></char>
+    </note>Ὅθεν, ἀδελφοὶ ἅγιοι, κλήσεως ἐπουρανίου μέτοχοι, κατανοήσατε τὸν ἀπόστολον καὶ ἀρχιερέα τῆς ὁμολογίας ἡμῶν Ἰησοῦν, <verse number="2" style="v" />πιστὸν ὄντα τῷ ποιήσαντι αὐτὸν ὡς καὶ Μωϋσῆς ἐν [ὅλῳ]<note caller="1" style="f"><char style="fr" closed="false">3.2 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">ὅλῳ </char><char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="HEB 3:5">3.5</ref>; <ref loc="NUM 12:7">Nu 12.7</ref> <char style="sc">lxx</char>)</char> ℵ A C D Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, d, v</char> vg syr<char style="add">p, h</char> arm eth geo slav Chrysostom Cyril<char style="add">2/3</char> Nestorius Theodoret John-Damascus ⫽ <char style="it">omit</char> 𝔓<char style="add">13, 46vid</char> B vg<char style="add">ms</char> cop<char style="add">sa, bo, fay</char> Cyril<char style="add">1/3</char>; Ambrose GNB REB EU</char></note> τῷ οἴκῳ αὐτοῦ. <verse number="3" style="v" />πλείονος γὰρ οὗτος δόξης παρὰ Μωϋσῆν ἠξίωται, καθ᾽ ὅσον πλείονα τιμὴν ἔχει τοῦ οἴκου ὁ κατασκευάσας αὐτόν· <verse number="4" style="v" />πᾶς γὰρ οἶκος κατασκευάζεται ὑπό τινος, ὁ δὲ πάντα κατασκευάσας θεός. <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.2, 5 </char><char style="xq" closed="false">Μωϋσῆς … αὐτοῦ </char><char style="xt" closed="false"><ref loc="NUM 12:7">Nu 12.7</ref></char></note>καὶ Μωϋσῆς μὲν πιστὸς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ ὡς θεράπων εἰς μαρτύριον τῶν λαληθησομένων, <verse number="6" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.6 </char><char style="xq" closed="false">ἐάνπερ … κατάσχωμεν </char><char style="xt" closed="false"><ref loc="COL 1:23">Col 1.23</ref>; <ref loc="HEB 3:14">He 3.14</ref></char></note>Χριστὸς δὲ ὡς υἱὸς ἐπὶ τὸν οἶκον αὐτοῦ· οὗ<note caller="2" style="f"><char style="fr" closed="false">3.6 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">οὗ </char><char style="ft" closed="false">𝔓<char style="add">13</char> ℵ A B C D<char style="add">2</char> I Ψ 075 0150 33 81 104 256 263 365 424* 436 459 1175 1241 1319<char style="add">c</char> 1573 1852 1881 1912 1962 2127 2200 (2464 </char><char style="fk" closed="false">οὗ ὁ</char><char style="ft" closed="false">) <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">v</char> syr<char style="add">(p), h, pal</char> cop<char style="add">sa, bo</char> arm geo<char style="add">2</char> slav Ps-Athanasius Didymus Didymus<char style="add">dub</char> Chrysostom Cyril Hesychius Theodoret John-Damascus; Jerome ⫽ </char><char style="fk" closed="false">ὁ </char><char style="ft" closed="false">1319* ⫽ </char><char style="fk" closed="false">ὅς </char><char style="ft" closed="false">𝔓<char style="add">46</char> D* 0243 6 424<char style="add">c</char> 1739 it<char style="add">ar, b, comp, d</char> vg eth (geo<char style="add">1</char>) Theodore<char style="add">lat</char>; Lucifer Priscillian Ambrose REB BTI?</char></note> οἶκός ἐσμεν ἡμεῖς, ἐάν[περ] τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος κατάσχωμεν<note caller="3" style="f"><char style="fr" closed="false">3.6 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">κατάσχωμεν </char><char style="ft" closed="false">𝔓<char style="add">13, 46</char> B cop<char style="add">sa</char> Lucifer Ambrose ⫽ </char><char style="fk" closed="false">μέχρι τέλους βεβαίαν κατάσχωμεν </char><char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="HEB 3:14">3.14</ref>)</char> ℵ A C D Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 (1962 </char><char style="fk" closed="false">βεβαίως</char><char style="ft" closed="false">) 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> (<char style="it">l</char> 596 </char><char style="fk" closed="false">βεβαίως; </char><char style="ft" closed="false"><char style="it">l</char> 593 </char><char style="fk" closed="false">βεβαίως κατέχομεν</char><char style="ft" closed="false">) it<char style="add">ar, b, comp, d, v</char> vg syr<char style="add">(p), h, pal</char> cop<char style="add">bo</char> arm eth geo slav Didymus Chrysostom; Priscillian</char></note>.</para>
+  <para style="s">A Rest for the People of God</para>
+  <para style="p">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">3.7‑11 </char>
+      <char style="xq" closed="false">Σήμερον … κατάπαυσίν μου </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 95:7-11">Ps 95.7‑11</ref>
+      </char>
+    </note>Διό, καθὼς λέγει τὸ πνεῦμα τὸ ἅγιον,</para>
+  <para style="q1">
+    <char style="qt">Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε,</char></para>
+  <para style="q1">
+    <verse number="8" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">3.8 </char>
+      <char style="xt" closed="false">
+        <ref loc="EXO 17:7">Ex 17.7</ref>; <ref loc="NUM 20:2-5">Nu 20.2‑5</ref></char>
+    </note>
+    <char style="qt">μὴ σκληρύνητε τὰς καρδίας ὑμῶν ὡς ἐν τῷ παραπικρασμῷ</char></para>
+  <para style="q2">
+    <char style="qt">κατὰ τὴν ἡμέραν τοῦ πειρασμοῦ ἐν τῇ ἐρήμῳ,</char></para>
+  <para style="q1">
+    <verse number="9" style="v" />
+    <char style="qt">οὗ ἐπείρασαν οἱ πατέρες ὑμῶν ἐν δοκιμασίᾳ</char></para>
+  <para style="q2">
+    <char style="qt">καὶ εἶδον τὰ ἔργα μου</char> <verse number="10" style="v" /><char style="qt">τεσσεράκοντα ἔτη·</char></para>
+  <para style="q1">
+    <char style="qt">διὸ προσώχθισα τῇ γενεᾷ ταύτῃ</char></para>
+  <para style="q1">
+    <char style="qt">καὶ εἶπον, Ἀεὶ πλανῶνται τῇ καρδίᾳ,</char></para>
+  <para style="q2">
+    <char style="qt">αὐτοὶ δὲ οὐκ ἔγνωσαν τὰς ὁδούς μου,</char></para>
+  <para style="q1">
+    <verse number="11" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">3.11 </char>
+      <char style="xt" closed="false">
+        <ref loc="NUM 14:21-23">Nu 14.21‑23</ref>
+      </char>
+    </note>
+    <char style="qt">ὡς ὤμοσα ἐν τῇ ὀργῇ μου·</char></para>
+  <para style="q2">
+    <char style="qt">Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.</char></para>
+  <para style="p">
+    <verse number="12" style="v" />Βλέπετε, ἀδελφοί, μήποτε ἔσται ἔν τινι ὑμῶν καρδία πονηρὰ ἀπιστίας ἐν τῷ ἀποστῆναι ἀπὸ θεοῦ ζῶντος, <verse number="13" style="v" />ἀλλὰ παρακαλεῖτε ἑαυτοὺς καθ᾽ ἑκάστην ἡμέραν, ἄχρις οὗ τὸ Σήμερον καλεῖται, ἵνα μὴ σκληρυνθῇ τις ἐξ ὑμῶν ἀπάτῃ τῆς ἁμαρτίας– <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.14 </char><char style="xq" closed="false">ἐάνπερ … κατάσχωμεν </char><char style="xt" closed="false"><ref loc="HEB 3:6">He 3.6</ref></char></note>μέτοχοι γὰρ τοῦ Χριστοῦ γεγόναμεν, ἐάνπερ τὴν ἀρχὴν τῆς ὑποστάσεως μέχρι τέλους βεβαίαν κατάσχωμεν – <verse number="15" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.15 </char><char style="xq" closed="false">Σήμερον … παραπικρασμῷ </char><char style="xt" closed="false"><ref loc="PSA 95:7-8">Ps 95.7‑8</ref> (<ref loc="HEB 3:7-8">He 3.7‑8</ref>)</char></note>ἐν τῷ λέγεσθαι,</para>
+  <para style="q1">
+    <char style="qt">Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε,</char></para>
+  <para style="q1">
+    <char style="qt">Μὴ σκληρύνητε τὰς καρδίας ὑμῶν ὡς ἐν τῷ παραπικρασμῷ.</char></para>
+  <para style="m">
+    <verse number="16" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">3.16‑18 </char>
+      <char style="xt" closed="false">
+        <ref loc="NUM 14:1-35">Nu 14.1‑35</ref>
+      </char>
+    </note>τίνες γὰρ ἀκούσαντες παρεπίκραναν; ἀλλ᾽ οὐ πάντες οἱ ἐξελθόντες ἐξ Αἰγύπτου διὰ Μωϋσέως; <verse number="17" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.17 </char><char style="xq" closed="false">ὧν … ἐρήμῳ </char><char style="xt" closed="false"><ref loc="NUM 14:29">Nu 14.29</ref>; <ref loc="1CO 10:10">1 Cor 10.10</ref></char></note>τίσιν δὲ προσώχθισεν τεσσεράκοντα ἔτη; οὐχὶ τοῖς ἁμαρτήσασιν, ὧν τὰ κῶλα ἔπεσεν ἐν τῇ ἐρήμῳ; <verse number="18" style="v" /><note caller="*" style="x"><char style="xo" closed="false">3.18 </char><char style="xq" closed="false">ὤμοσεν … αὐτοῦ </char><char style="xt" closed="false"><ref loc="NUM 14:22-23">Nu 14.22‑23</ref>; <ref loc="PSA 95:11">Ps 95.11</ref>; <ref loc="HEB 3:11">He 3.11</ref></char></note>τίσιν δὲ ὤμοσεν μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ εἰ μὴ τοῖς ἀπειθήσασιν; <verse number="19" style="v" />καὶ βλέπομεν ὅτι οὐκ ἠδυνήθησαν εἰσελθεῖν δι᾽ ἀπιστίαν.</para>
+  <chapter number="4" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Φοβηθῶμεν οὖν, μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι. <verse number="2" style="v" />καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι· ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους μὴ συγκεκερασμένους<note caller="1" style="f"><char style="fr" closed="false">4.2 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">συγκεκ(ε)ρα(σ)μένους </char><char style="ft" closed="false">𝔓<char style="add">13vid, 46</char> (A) B C D Ψ 075 0150 0243 6 33 81 256 263 365 424 436 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, comp<char style="add">2</char>, v</char> vg<char style="add">ww, st</char> syr<char style="add">h, pal</char> cop<char style="add">sa<char style="add">mss</char></char> arm eth slav Cyril<char style="add">1/2</char> Theodore; Augustine ⫽ </char><char style="fk" closed="false">συγκεκραμένης </char><char style="ft" closed="false">vg<char style="add">mss</char> Chrysostom ⫽ </char><char style="fk" closed="false">συγκεκ(ε)ρα(σ)μένος </char><char style="ft" closed="false">ℵ <char style="it">l</char> 1153 <char style="it">l</char><char style="add">AD</char> it<char style="add">b, comp*, d</char> vg<char style="add">cl</char> syr<char style="add">p</char> cop<char style="add">sa<char style="add">mss</char></char> geo Cyril<char style="add">1/2</char> Theodoret<char style="add">ms</char>; Lucifer GNB NIV REB EU TOB ⫽ </char><char style="fk" closed="false">συγκεκραμμένοι </char><char style="ft" closed="false">104 459</char></note> τῇ πίστει τοῖς ἀκούσασιν. <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.3 </char><char style="xq" closed="false">Ὡς … μου </char><char style="xt" closed="false"><ref loc="PSA 95:11">Ps 95.11</ref> (<ref loc="HEB 3:11">He 3.11</ref>; <ref loc="HEB 4:5">4.5</ref>)</char></note>εἰσερχόμεθα γὰρ<note caller="2" style="f"><char style="fr" closed="false">4.3 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">εἰσερχόμεθα γάρ </char><char style="ft" closed="false">𝔓<char style="add">13, 46</char> B D Ψ 0150 6 33 424 1241 1319 1852 1912 1962 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">d</char> vg<char style="add">mss</char> syr<char style="add">(p), h, pal</char> cop<char style="add">sa</char> (arm) eth geo slav Chrysostom Cyril ⫽ </char><char style="fk" closed="false">εἰσερχόμεθα οὖν </char><char style="ft" closed="false">ℵ 075 0243 81 104 256 263 365 436 459 1573 1739 1881 2127 2464 <char style="it">l</char> 596 cop<char style="add">bo</char> ⫽ </char><char style="fk" closed="false">εἰσερχώμεθα οὖν </char><char style="ft" closed="false">A C (it<char style="add">ar, b, comp, v</char>) (vg) vg<char style="add">ms</char> (Lucifer)</char></note> εἰς [τὴν]<note caller="3" style="f"><char style="fr" closed="false">4.3 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">τήν </char><char style="ft" closed="false">ℵ A C D<char style="add">2</char> Ψ 075 0150 0243 6 33 81 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> cop<char style="add">sa, bo</char> arm eth geo Chrysostom Cyril ⫽ <char style="it">omit</char> 𝔓<char style="add">13vid, 46</char> B D*</char></note> κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν,</para>
+  <para style="q1">
+    <char style="qt">Ὡς ὤμοσα ἐν τῇ ὀργῇ μου,</char></para>
+  <para style="q1">
+    <char style="qt">Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου,</char></para>
+  <para style="m">καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων. <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.4 </char><char style="xq" closed="false">Καὶ … αὐτοῦ </char><char style="xt" closed="false"><ref loc="GEN 2:2">Gn 2.2</ref></char></note>εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως, <char style="qt">Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,</char> <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.5 </char><char style="xq" closed="false">Εἰ … μου </char><char style="xt" closed="false"><ref loc="PSA 95:11">Ps 95.11</ref> (<ref loc="HEB 3:11">He 3.11</ref>; <ref loc="HEB 4:1">4.1</ref>)</char></note>καὶ ἐν τούτῳ πάλιν, <char style="qt">Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.</char> <verse number="6" style="v" />ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν, <verse number="7" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.7 </char><char style="xq" closed="false">Σήμερον … ὑμῶν </char><char style="xt" closed="false"><ref loc="PSA 95:7-8">Ps 95.7‑8</ref> (<ref loc="HEB 3:7-8">He 3.7‑8</ref>)</char></note>πάλιν τινὰ ὁρίζει ἡμέραν, <char style="qt">Σήμερον,</char> ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται,</para>
+  <para style="q1">
+    <char style="qt">Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε,</char></para>
+  <para style="q1">
+    <char style="qt">μὴ σκληρύνητε τὰς καρδίας ὑμῶν.</char></para>
+  <para style="m">
+    <verse number="8" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">4.8 </char>
+      <char style="xq" closed="false">εἰ … κατέπαυσεν </char>
+      <char style="xt" closed="false">
+        <ref loc="DEU 31:7">Dt 31.7</ref>; <ref loc="JOS 22:4">Jos 22.4</ref></char>
+    </note>εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας. <verse number="9" style="v" />ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ. <verse number="10" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.10 </char><char style="xq" closed="false">ὥσπερ … θεός </char><char style="xt" closed="false"><ref loc="GEN 2:2">Gn 2.2</ref>; <ref loc="HEB 4:4">He 4.4</ref></char></note>ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός. <verse number="11" style="v" />σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.</para>
+  <para style="p">
+    <verse number="12" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">4.12 </char>
+      <char style="xq" closed="false">Ζῶν … θεοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="1PE 1:23">1 Pe 1.23</ref> </char>
+      <char style="xq" closed="false">ὁ … δίστομον </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 49:2">Is 49.2</ref>; <ref loc="EPH 6:17">Eph 6.17</ref>; <ref loc="REV 19:15">Re 19.15</ref> </char>
+      <char style="xq" closed="false">ὁ … θεοῦ </char>
+      <char style="xt" closed="false">
+        <char style="it">and</char> </char>
+      <char style="xq" closed="false">κριτικός </char>
+      <char style="xt" closed="false">
+        <ref loc="JHN 12:48">Jn 12.48</ref>
+      </char>
+    </note>Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας· <verse number="13" style="v" />καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.</para>
+  <para style="s">Jesus the Great High Priest</para>
+  <para style="p">
+    <verse number="14" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">4.14 </char>
+      <char style="xq" closed="false">ἀρχιερέα … Ἰησοῦν </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 3:1">He 3.1</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 7:26">7.26</ref>; <ref loc="HEB 8:1">8.1</ref>; <ref loc="HEB 9:11">9.11</ref> </char>
+      <char style="xq" closed="false">κρατῶμεν τῆς ὁμολογίας </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 10:23">He 10.23</ref>
+      </char>
+    </note>Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας. <verse number="15" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.15 </char><char style="xt" closed="false"><ref loc="HEB 2:17">He 2.17</ref></char></note>οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα χωρὶς ἁμαρτίας. <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">4.16 </char><char style="xq" closed="false">προσερχώμεθα … χάριτος </char><char style="xt" closed="false"><ref loc="HEB 10:19">He 10.19</ref></char></note>προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.</para>
+  <chapter number="5" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Πᾶς γὰρ ἀρχιερεὺς ἐξ ἀνθρώπων λαμβανόμενος ὑπὲρ ἀνθρώπων καθίσταται τὰ πρὸς τὸν θεόν, ἵνα προσφέρῃ δῶρά τε καὶ θυσίας ὑπὲρ ἁμαρτιῶν, <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.2 </char><char style="xt" closed="false"><ref loc="HEB 2:17">He 2.17</ref>; <ref loc="HEB 4:15">4.15</ref></char></note>μετριοπαθεῖν δυνάμενος τοῖς ἀγνοοῦσιν καὶ πλανωμένοις, ἐπεὶ καὶ αὐτὸς περίκειται ἀσθένειαν <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.3 </char><char style="xt" closed="false"><ref loc="LEV 9:7">Lv 9.7</ref>; <ref loc="LEV 16:6">16.6</ref></char></note>καὶ δι᾽ αὐτὴν ὀφείλει, καθὼς περὶ τοῦ λαοῦ, οὕτως καὶ περὶ αὐτοῦ προσφέρειν περὶ ἁμαρτιῶν. <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.4 </char><char style="xq" closed="false">καλούμενος … Ἀαρών </char><char style="xt" closed="false"><ref loc="EXO 28:1">Ex 28.1</ref></char></note>καὶ οὐχ ἑαυτῷ τις λαμβάνει τὴν τιμὴν ἀλλὰ καλούμενος ὑπὸ τοῦ θεοῦ καθώσπερ καὶ Ἀαρών.</para>
+  <para style="p">
+    <verse number="5" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">5.5 </char>
+      <char style="xq" closed="false">Υἱός … σε </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 2:7">Ps 2.7</ref> (<ref loc="ACT 13:33">Ac 13.33</ref>; <ref loc="HEB 1:5">He 1.5</ref>)</char>
+    </note>Οὕτως καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα ἀλλ᾽ ὁ λαλήσας πρὸς αὐτόν,</para>
+  <para style="q1">
+    <char style="qt">Υἱός μου εἶ σύ,</char></para>
+  <para style="q2">
+    <char style="qt">ἐγὼ σήμερον γεγέννηκά σε·</char></para>
+  <para style="m">
+    <verse number="6" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">5.6 </char>
+      <char style="xq" closed="false">Σὺ … Μελχισέδεκ </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 110:4">Ps 110.4</ref> (<ref loc="HEB 6:20">He 6.20</ref>; <ref loc="HEB 7:17">7.17</ref>)</char>
+    </note>καθὼς καὶ ἐν ἑτέρῳ λέγει,</para>
+  <para style="q1">
+    <char style="qt">Σὺ ἱερεὺς εἰς τὸν αἰῶνα</char></para>
+  <para style="q2">
+    <char style="qt">κατὰ τὴν τάξιν Μελχισέδεκ,</char></para>
+  <para style="m">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">5.7 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 26:36-46">Mt 26.36‑46</ref>; <ref loc="MRK 14:32-42">Mk 14.32‑42</ref>; <ref loc="LUK 22:39-46">Lk 22.39‑46</ref></char>
+    </note>ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας, <verse number="8" style="v" />καίπερ ὢν υἱός, ἔμαθεν ἀφ᾽ ὧν ἔπαθεν τὴν ὑπακοήν, <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.9 </char><char style="xq" closed="false">αἴτιος σωτηρίας αἰωνίου </char><char style="xt" closed="false"><ref loc="ISA 45:17">Is 45.17</ref></char></note>καὶ τελειωθεὶς ἐγένετο πᾶσιν τοῖς ὑπακούουσιν αὐτῷ αἴτιος σωτηρίας αἰωνίου, <verse number="10" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.10 </char><char style="xq" closed="false">κατὰ … Μελχισέδεκ </char><char style="xt" closed="false"><ref loc="PSA 110:4">Ps 110.4</ref>; <ref loc="HEB 5:6">He 5.6</ref></char></note>προσαγορευθεὶς ὑπὸ τοῦ θεοῦ ἀρχιερεὺς κατὰ τὴν τάξιν Μελχισέδεκ.</para>
+  <para style="s">Warning Against Apostasy</para>
+  <para style="p">
+    <verse number="11" style="v" />Περὶ οὗ πολὺς ἡμῖν ὁ λόγος καὶ δυσερμήνευτος λέγειν, ἐπεὶ νωθροὶ γεγόνατε ταῖς ἀκοαῖς. <verse number="12" style="v" />καὶ γὰρ ὀφείλοντες εἶναι διδάσκαλοι διὰ τὸν χρόνον, πάλιν χρείαν ἔχετε τοῦ διδάσκειν ὑμᾶς τινὰ<note caller="1" style="f"><char style="fr" closed="false">5.12 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">τινά </char><char style="ft" closed="false">Ψ 81 cop<char style="add">sa<char style="add">ms</char></char> ⫽ </char><char style="fk" closed="false">τίνα </char><char style="ft" closed="false">B<char style="add">2</char> D<char style="add">2</char> 0122 0150 104 256 263 365 424* 436 459 1241 1319 1573 1852 1912<char style="add">vid</char> 1962 2127 2200 2464 <char style="it">Byz</char> [K L] <char style="it">Lect</char> it<char style="add">ar, b, comp, d</char> vg cop<char style="add">sa<char style="add">mss</char>, bo</char> arm (eth) geo slav Clement Origen<char style="add">gr, lat</char> Didymus<char style="add">dub</char> Chrysostom Cyril; Jerome Augustine ⫽ </char><char style="fk" closed="false">τινα </char><char style="ft" closed="false"><char style="it">without accent</char> 𝔓<char style="add">46</char> ℵ A B* C D* P 33 ⫽ <char style="it">omit</char> 075 6 424<char style="add">c</char> 1739 1881</char></note> τὰ στοιχεῖα τῆς ἀρχῆς τῶν λογίων τοῦ θεοῦ καὶ γεγόνατε χρείαν ἔχοντες γάλακτος [καὶ] οὐ στερεᾶς τροφῆς. <verse number="13" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.12‑13 </char><char style="xq" closed="false">γεγόνατε … ἐστιν </char><char style="xt" closed="false"><ref loc="1CO 3:1-3">1 Cor 3.1‑3</ref>; <ref loc="1PE 2:2">1 Pe 2.2</ref></char></note>πᾶς γὰρ ὁ μετέχων γάλακτος ἄπειρος λόγου δικαιοσύνης, νήπιος γάρ ἐστιν· <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">5.14 </char><char style="xq" closed="false">διάκρισιν … κακοῦ </char><char style="xt" closed="false"><ref loc="ROM 16:19">Ro 16.19</ref></char></note>τελείων δέ ἐστιν ἡ στερεὰ τροφή, τῶν διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων πρὸς διάκρισιν καλοῦ τε καὶ κακοῦ.</para>
+  <chapter number="6" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">6.1 </char>
+      <char style="xq" closed="false">ἀπὸ … θεόν </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 9:14">He 9.14</ref>
+      </char>
+    </note>Διὸ ἀφέντες τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον ἐπὶ τὴν τελειότητα φερώμεθα, μὴ πάλιν θεμέλιον καταβαλλόμενοι μετανοίας ἀπὸ νεκρῶν ἔργων καὶ πίστεως ἐπὶ θεόν, <verse number="2" style="v" />βαπτισμῶν διδαχῆς<note caller="1" style="f"><char style="fr" closed="false">6.2 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">διδαχῆς </char><char style="ft" closed="false">ℵ A C D I 075 0122 6 33 81 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> (<char style="it">l</char> 170 </char><char style="fk" closed="false">διδαχαῖς</char><char style="ft" closed="false">) it<char style="add">ar, b, comp</char> vg syr<char style="add">h</char> arm geo slav Chrysostom Marcus-Eremita; Augustine ⫽ </char><char style="fk" closed="false">διδαχήν </char><char style="ft" closed="false">𝔓<char style="add">46</char> B 0150 it<char style="add">d</char> syr<char style="add">pal</char> (eth) Ambrose<char style="add">vid</char> EU</char></note> ἐπιθέσεώς τε χειρῶν, ἀναστάσεώς τε νεκρῶν καὶ κρίματος αἰωνίου. <verse number="3" style="v" />καὶ τοῦτο ποιήσομεν<note caller="2" style="f"><char style="fr" closed="false">6.3 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">ποιήσομεν </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ B I 0122 6 33 256 424 1241 1573 1739 1881 2127 2200 <char style="it">Byz</char><char style="add">pt</char> [K L] <char style="it">Lect</char><char style="add">pt, AD</char> it<char style="add">ar, b, comp, d</char> vg cop<char style="add">sa<char style="add">mss</char>, bo, fay</char> eth Theodoret<char style="add">lem</char>; Ambrose ⫽ </char><char style="fk" closed="false">ποιήσωμεν </char><char style="ft" closed="false">A C D Ψ 075 0150 81 104 263 365 436 459 1319 1852 1912 1962 2464 <char style="it">Byz</char><char style="add">pt</char> [P] <char style="it">Lect</char><char style="add">pt</char> vg<char style="add">ms</char> arm slav Theodoret<char style="add">com</char></char></note>, ἐάνπερ ἐπιτρέπῃ ὁ θεός. <verse number="4" style="v" />Ἀδύνατον γὰρ τοὺς ἅπαξ φωτισθέντας, γευσαμένους τε τῆς δωρεᾶς τῆς ἐπουρανίου καὶ μετόχους γενηθέντας πνεύματος ἁγίου <verse number="5" style="v" />καὶ καλὸν γευσαμένους θεοῦ ῥῆμα δυνάμεις τε μέλλοντος αἰῶνος <verse number="6" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.4‑6 </char><char style="xt" closed="false"><ref loc="MAT 12:31">Mt 12.31</ref>; <ref loc="HEB 10:26-27">He 10.26‑27</ref>; <ref loc="1JN 5:16">1 Jn 5.16</ref></char></note>καὶ παραπεσόντας, πάλιν ἀνακαινίζειν εἰς μετάνοιαν, ἀνασταυροῦντας ἑαυτοῖς τὸν υἱὸν τοῦ θεοῦ καὶ παραδειγματίζοντας. <verse number="7" style="v" />γῆ γὰρ ἡ πιοῦσα τὸν ἐπ᾽ αὐτῆς ἐρχόμενον πολλάκις ὑετὸν καὶ τίκτουσα βοτάνην εὔθετον ἐκείνοις δι᾽ οὓς καὶ γεωργεῖται, μεταλαμβάνει εὐλογίας ἀπὸ τοῦ θεοῦ· <verse number="8" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.8 </char><char style="xq" closed="false">ἐκφέρουσα … ἐγγύς </char><char style="xt" closed="false"><ref loc="GEN 3:17-18">Gn 3.17‑18</ref></char></note>ἐκφέρουσα δὲ ἀκάνθας καὶ τριβόλους, ἀδόκιμος καὶ κατάρας ἐγγύς, ἧς τὸ τέλος εἰς καῦσιν.</para>
+  <para style="p">
+    <verse number="9" style="v" />Πεπείσμεθα δὲ περὶ ὑμῶν, ἀγαπητοί, τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας, εἰ καὶ οὕτως λαλοῦμεν. <verse number="10" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.10 </char><char style="xt" closed="false"><ref loc="HEB 10:32-34">He 10.32‑34</ref></char></note>οὐ γὰρ ἄδικος ὁ θεὸς ἐπιλαθέσθαι τοῦ ἔργου ὑμῶν καὶ τῆς ἀγάπης ἧς ἐνεδείξασθε εἰς τὸ ὄνομα αὐτοῦ, διακονήσαντες τοῖς ἁγίοις καὶ διακονοῦντες. <verse number="11" style="v" />ἐπιθυμοῦμεν δὲ ἕκαστον ὑμῶν τὴν αὐτὴν ἐνδείκνυσθαι σπουδὴν πρὸς τὴν πληροφορίαν τῆς ἐλπίδος ἄχρι τέλους, <verse number="12" style="v" />ἵνα μὴ νωθροὶ γένησθε, μιμηταὶ δὲ τῶν διὰ πίστεως καὶ μακροθυμίας κληρονομούντων τὰς ἐπαγγελίας.</para>
+  <para style="s">God’s Sure Promise</para>
+  <para style="p">
+    <verse number="13" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">6.13 </char>
+      <char style="xq" closed="false">ὤμοσεν καθ᾽ ἑαυτοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 22:16">Gn 22.16</ref>
+      </char>
+    </note>Τῷ γὰρ Ἀβραὰμ ἐπαγγειλάμενος ὁ θεός, ἐπεὶ κατ᾽ οὐδενὸς εἶχεν μείζονος ὀμόσαι, <char style="qt">ὤμοσεν καθ᾽ ἑαυτοῦ</char> <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.14 </char><char style="xq" closed="false">Εἰ … πληθυνῶ </char><char style="xt" closed="false"><ref loc="GEN 22:17">Gn 22.17</ref> (<ref loc="SIR 44:21">Sir 44.21</ref>)</char></note>λέγων, <char style="qt">Εἰ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ</char> σε· <verse number="15" style="v" />καὶ οὕτως μακροθυμήσας ἐπέτυχεν τῆς ἐπαγγελίας. <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.16 </char><char style="xq" closed="false">πάσης … ὅρκος </char><char style="xt" closed="false"><ref loc="EXO 22:11">Ex 22.11</ref></char></note>ἄνθρωποι γὰρ κατὰ τοῦ μείζονος ὀμνύουσιν, καὶ πάσης αὐτοῖς ἀντιλογίας πέρας εἰς βεβαίωσιν ὁ ὅρκος· <verse number="17" style="v" />ἐν ᾧ περισσότερον βουλόμενος ὁ θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ ἐμεσίτευσεν ὅρκῳ, <verse number="18" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.18 </char><char style="xq" closed="false">ἀδύνατον … θεόν </char><char style="xt" closed="false"><ref loc="NUM 23:19">Nu 23.19</ref>; <ref loc="1SA 15:29">1 Sm 15.29</ref></char></note>ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι [τὸν] θεόν, ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος· <verse number="19" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.19 </char><char style="xq" closed="false">εἰσερχομένην … καταπετάσματος </char><char style="xt" closed="false"><ref loc="LEV 16:2-3">Lv 16.2‑3</ref>, <ref loc="LEV 16:12">12</ref>, <ref loc="LEV 16:15">15</ref></char></note>ἣν ὡς ἄγκυραν ἔχομεν τῆς ψυχῆς ἀσφαλῆ τε καὶ βεβαίαν καὶ εἰσερχομένην εἰς τὸ ἐσώτερον τοῦ καταπετάσματος, <verse number="20" style="v" /><note caller="*" style="x"><char style="xo" closed="false">6.20 </char><char style="xq" closed="false">κατὰ … αἰῶνα </char><char style="xt" closed="false"><ref loc="PSA 110:4">Ps 110.4</ref>; <ref loc="HEB 5:6">He 5.6</ref>; <ref loc="HEB 7:17">7.17</ref></char></note>ὅπου πρόδρομος ὑπὲρ ἡμῶν εἰσῆλθεν Ἰησοῦς, κατὰ τὴν τάξιν Μελχισέδεκ ἀρχιερεὺς γενόμενος εἰς τὸν αἰῶνα.</para>
+  <chapter number="7" style="c" />
+  <para style="s">The Priestly Order of Melchizedek</para>
+  <para style="p">
+    <verse number="1" style="v" />Οὗτος γὰρ ὁ <char style="qt">Μελχισέδεκ, βασιλεὺς Σαλήμ, ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου,</char> ὁ <char style="qt">συναντήσας Ἀβραὰμ ὑποστρέφοντι ἀπὸ τῆς κοπῆς τῶν βασιλέων</char> καὶ <char style="qt">εὐλογήσας αὐτόν,</char> <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.1‑2 </char><char style="xt" closed="false"><ref loc="GEN 14:17-20">Gn 14.17‑20</ref></char></note>ᾧ καὶ <char style="qt">δεκάτην ἀπὸ πάντων</char> ἐμέρισεν <char style="qt">Ἀβραάμ,</char> πρῶτον μὲν ἑρμηνευόμενος βασιλεὺς δικαιοσύνης ἔπειτα δὲ καὶ <char style="qt">βασιλεὺς Σαλήμ,</char> ὅ ἐστιν βασιλεὺς εἰρήνης, <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.3 </char><char style="xq" closed="false">ἀφωμοιωμένος … διηνεκές </char><char style="xt" closed="false"><ref loc="PSA 110:4">Ps 110.4</ref></char></note>ἀπάτωρ ἀμήτωρ ἀγενεαλόγητος, μήτε ἀρχὴν ἡμερῶν μήτε ζωῆς τέλος ἔχων, ἀφωμοιωμένος δὲ τῷ υἱῷ τοῦ θεοῦ, μένει ἱερεὺς εἰς τὸ διηνεκές.</para>
+  <para style="p">
+    <verse number="4" style="v" />Θεωρεῖτε δὲ πηλίκος οὗτος, ᾧ [καὶ] δεκάτην Ἀβραὰμ ἔδωκεν ἐκ τῶν ἀκροθινίων ὁ πατριάρχης. <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.5 </char><char style="xq" closed="false">οἱ … νόμον </char><char style="xt" closed="false"><ref loc="NUM 18:21">Nu 18.21</ref></char></note>καὶ οἱ μὲν ἐκ τῶν υἱῶν Λευὶ τὴν ἱερατείαν λαμβάνοντες ἐντολὴν ἔχουσιν ἀποδεκατοῦν τὸν λαὸν κατὰ τὸν νόμον, τοῦτ᾽ ἔστιν τοὺς ἀδελφοὺς αὐτῶν, καίπερ ἐξεληλυθότας ἐκ τῆς ὀσφύος Ἀβραάμ· <verse number="6" style="v" />ὁ δὲ μὴ γενεαλογούμενος ἐξ αὐτῶν δεδεκάτωκεν Ἀβραὰμ καὶ τὸν ἔχοντα τὰς ἐπαγγελίας εὐλόγηκεν. <verse number="7" style="v" />χωρὶς δὲ πάσης ἀντιλογίας τὸ ἔλαττον ὑπὸ τοῦ κρείττονος εὐλογεῖται. <verse number="8" style="v" />καὶ ὧδε μὲν δεκάτας ἀποθνῄσκοντες ἄνθρωποι λαμβάνουσιν, ἐκεῖ δὲ μαρτυρούμενος ὅτι ζῇ. <verse number="9" style="v" />καὶ ὡς ἔπος εἰπεῖν, δι᾽ Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας λαμβάνων δεδεκάτωται· <verse number="10" style="v" />ἔτι γὰρ ἐν τῇ ὀσφύϊ τοῦ πατρὸς ἦν ὅτε συνήντησεν αὐτῷ Μελχισέδεκ.</para>
+  <para style="p">
+    <verse number="11" style="v" />Εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν, ὁ λαὸς γὰρ ἐπ᾽ αὐτῆς νενομοθέτηται, τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ ἕτερον ἀνίστασθαι ἱερέα καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι; <verse number="12" style="v" />μετατιθεμένης γὰρ τῆς ἱερωσύνης ἐξ ἀνάγκης καὶ νόμου μετάθεσις γίνεται. <verse number="13" style="v" />ἐφ᾽ ὃν γὰρ λέγεται ταῦτα, φυλῆς ἑτέρας μετέσχηκεν, ἀφ᾽ ἧς οὐδεὶς προσέσχηκεν τῷ θυσιαστηρίῳ· <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.14 </char><char style="xq" closed="false">ἐξ Ἰούδα … ἡμῶν </char><char style="xt" closed="false"><ref loc="GEN 49:10">Gn 49.10</ref>; <ref loc="ISA 11:1">Is 11.1</ref>; <ref loc="MAT 2:6">Mt 2.6</ref>; <ref loc="REV 5:5">Re 5.5</ref></char></note>πρόδηλον γὰρ ὅτι ἐξ Ἰούδα ἀνατέταλκεν ὁ κύριος ἡμῶν, εἰς ἣν φυλὴν περὶ ἱερέων οὐδὲν Μωϋσῆς ἐλάλησεν. <verse number="15" style="v" />καὶ περισσότερον ἔτι κατάδηλόν ἐστιν, εἰ κατὰ τὴν ὁμοιότητα Μελχισέδεκ ἀνίσταται ἱερεὺς ἕτερος, <verse number="16" style="v" />ὃς οὐ κατὰ νόμον ἐντολῆς σαρκίνης γέγονεν ἀλλὰ κατὰ δύναμιν ζωῆς ἀκαταλύτου. <verse number="17" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.17 </char><char style="xq" closed="false">Σὺ … Μελχισέδεκ </char><char style="xt" closed="false"><ref loc="PSA 110:4">Ps 110.4</ref> (<ref loc="HEB 5:6">He 5.6</ref>; <ref loc="HEB 6:20">6.20</ref>)</char></note>μαρτυρεῖται γὰρ ὅτι</para>
+  <para style="q1">
+    <char style="qt">Σὺ ἱερεὺς εἰς τὸν αἰῶνα</char></para>
+  <para style="q2">
+    <char style="qt">κατὰ τὴν τάξιν Μελχισέδεκ.</char></para>
+  <para style="m">
+    <verse number="18" style="v" />ἀθέτησις μὲν γὰρ γίνεται προαγούσης ἐντολῆς διὰ τὸ αὐτῆς ἀσθενὲς καὶ ἀνωφελές – <verse number="19" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.19 </char><char style="xq" closed="false">οὐδὲν … νόμος </char><char style="xt" closed="false"><ref loc="HEB 9:9">He 9.9</ref></char></note>οὐδὲν γὰρ ἐτελείωσεν ὁ νόμος – ἐπεισαγωγὴ δὲ κρείττονος ἐλπίδος δι᾽ ἧς ἐγγίζομεν τῷ θεῷ.</para>
+  <para style="p">
+    <verse number="20" style="v" />Καὶ καθ᾽ ὅσον οὐ χωρὶς ὁρκωμοσίας· οἱ μὲν γὰρ χωρὶς ὁρκωμοσίας εἰσὶν ἱερεῖς γεγονότες, <verse number="21" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.21 </char><char style="xq" closed="false">Ὤμοσεν … αἰῶνα </char><char style="xt" closed="false"><ref loc="PSA 110:4">Ps 110.4</ref> (<ref loc="HEB 5:6">He 5.6</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 7:17">7.17</ref>)</char></note>ὁ δὲ μετὰ ὁρκωμοσίας διὰ τοῦ λέγοντος πρὸς αὐτόν·</para>
+  <para style="q1">
+    <char style="qt">Ὤμοσεν κύριος</char></para>
+  <para style="q2">
+    <char style="qt">καὶ οὐ μεταμεληθήσεται,</char></para>
+  <para style="q1">
+    <char style="qt">Σὺ ἱερεὺς εἰς τὸν αἰῶνα</char>
+    <note caller="1" style="f">
+      <char style="fr" closed="false">7.21 </char>
+      <char style="ft" closed="false">{A} </char>
+      <char style="fk" closed="false">εἰς τὸν αἰῶνα </char>
+      <char style="ft" closed="false">𝔓<char style="add">46</char> B C 0150 33 81 436 2464 it<char style="add">b, comp, μ, r</char> vg syr<char style="add">pal</char> cop<char style="add">sa, bo<char style="add">pt</char></char> arm ⫽ </char>
+      <char style="fk" closed="false">εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="HEB 7:17">7.17</ref>; <ref loc="PSA 110:4">Ps 110.4</ref>)</char> ℵ<char style="add">2</char> A D Ψ 075 6 104 256 263 365 424 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, d</char> vg<char style="add">mss</char> syr<char style="add">p, h</char> cop<char style="add">bo<char style="add">pt</char></char> eth geo slav Eusebius Chrysostom Theodoret ⫽ <char style="it">omit</char> ℵ*</char>
+    </note>.</para>
+  <para style="m">
+    <verse number="22" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">7.22 </char>
+      <char style="xq" closed="false">κρείττονος … Ἰησοῦς </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 8:6">He 8.6</ref>; <ref loc="HEB 12:24">12.24</ref></char>
+    </note>κατὰ τοσοῦτο [καὶ] κρείττονος διαθήκης γέγονεν ἔγγυος Ἰησοῦς. <verse number="23" style="v" />καὶ οἱ μὲν πλείονές εἰσιν γεγονότες ἱερεῖς διὰ τὸ θανάτῳ κωλύεσθαι παραμένειν· <verse number="24" style="v" />ὁ δὲ διὰ τὸ μένειν αὐτὸν εἰς τὸν αἰῶνα ἀπαράβατον ἔχει τὴν ἱερωσύνην· <verse number="25" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.25 </char><char style="xq" closed="false">πάντοτε … αὐτῶν </char><char style="xt" closed="false"><ref loc="ROM 8:34">Ro 8.34</ref>; <ref loc="1JN 2:1">1 Jn 2.1</ref></char></note>ὅθεν καὶ σῴζειν εἰς τὸ παντελὲς δύναται τοὺς προσερχομένους δι᾽ αὐτοῦ τῷ θεῷ, πάντοτε ζῶν εἰς τὸ ἐντυγχάνειν ὑπὲρ αὐτῶν.</para>
+  <para style="p">
+    <verse number="26" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">7.26 </char>
+      <char style="xq" closed="false">ἡμῖν … ἀρχιερεύς </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 3:1">He 3.1</ref>; <ref loc="HEB 4:14">4.14</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 8:1">8.1</ref>; <ref loc="HEB 9:11">9.11</ref></char>
+    </note>Τοιοῦτος γὰρ ἡμῖν καὶ ἔπρεπεν ἀρχιερεύς, ὅσιος ἄκακος ἀμίαντος, κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος, <verse number="27" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.27 </char><char style="xq" closed="false">ὥσπερ … λαοῦ </char><char style="xt" closed="false"><ref loc="LEV 9:7">Lv 9.7</ref>; <ref loc="LEV 16:6">16.6</ref>, <ref loc="LEV 16:15">15</ref></char></note>ὃς οὐκ ἔχει καθ᾽ ἡμέραν ἀνάγκην, ὥσπερ οἱ ἀρχιερεῖς, πρότερον ὑπὲρ τῶν ἰδίων ἁμαρτιῶν θυσίας ἀναφέρειν ἔπειτα τῶν τοῦ λαοῦ· τοῦτο γὰρ ἐποίησεν ἐφάπαξ ἑαυτὸν ἀνενέγκας. <verse number="28" style="v" /><note caller="*" style="x"><char style="xo" closed="false">7.28 </char><char style="xq" closed="false">ὁ νόμος … ἀσθένειαν </char><char style="xt" closed="false"><ref loc="HEB 5:1-2">He 5.1‑2</ref></char></note>ὁ νόμος γὰρ ἀνθρώπους καθίστησιν ἀρχιερεῖς ἔχοντας ἀσθένειαν, ὁ λόγος δὲ τῆς ὁρκωμοσίας τῆς μετὰ τὸν νόμον υἱὸν εἰς τὸν αἰῶνα τετελειωμένον.</para>
+  <chapter number="8" style="c" />
+  <para style="s">The High Priest of a New and Better Covenant</para>
+  <para style="p">
+    <verse number="1" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">8.1 </char>
+      <char style="xq" closed="false">τοιοῦτον ἔχομεν ἀρχιερέα </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 3:1">He 3.1</ref>; <ref loc="HEB 4:14">4.14</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 7:26">7.26</ref>; <ref loc="HEB 9:11">9.11</ref> </char>
+      <char style="xq" closed="false">ἐκάθισεν … οὐρανοῖς </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 110:1">Ps 110.1</ref>; <ref loc="MAT 22:44">Mt 22.44</ref>; <ref loc="MRK 16:19">Mk 16.19</ref>; <ref loc="ACT 2:34">Ac 2.34</ref>; <ref loc="EPH 1:20">Eph 1.20</ref>; <ref loc="HEB 1:3">He 1.3</ref>; <ref loc="HEB 10:12">10.12</ref>; <ref loc="HEB 12:2">12.2</ref></char>
+    </note>Κεφάλαιον δὲ ἐπὶ τοῖς λεγομένοις, τοιοῦτον ἔχομεν ἀρχιερέα, ὃς ἐκάθισεν ἐν δεξιᾷ τοῦ θρόνου τῆς μεγαλωσύνης ἐν τοῖς οὐρανοῖς, <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">8.2 </char><char style="xq" closed="false">τῆς σκηνῆς … κύριος </char><char style="xt" closed="false"><ref loc="NUM 24:6">Nu 24.6</ref> <char style="sc">lxx</char></char></note>τῶν ἁγίων λειτουργὸς καὶ τῆς σκηνῆς τῆς ἀληθινῆς, ἣν ἔπηξεν ὁ κύριος, οὐκ ἄνθρωπος. <verse number="3" style="v" />πᾶς γὰρ ἀρχιερεὺς εἰς τὸ προσφέρειν δῶρά τε καὶ θυσίας καθίσταται· ὅθεν ἀναγκαῖον ἔχειν τι καὶ τοῦτον ὃ προσενέγκῃ. <verse number="4" style="v" />εἰ μὲν οὖν ἦν ἐπὶ γῆς, οὐδ᾽ ἂν ἦν ἱερεύς, ὄντων τῶν προσφερόντων κατὰ νόμον τὰ δῶρα· <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">8.5 </char><char style="xq" closed="false">οἵτινες … λατρεύουσιν </char><char style="xt" closed="false"><ref loc="COL 2:17">Col 2.17</ref> </char><char style="xq" closed="false">Ὅρα … ὄρει </char><char style="xt" closed="false"><ref loc="EXO 25:40">Ex 25.40</ref></char></note>οἵτινες ὑποδείγματι καὶ σκιᾷ λατρεύουσιν τῶν ἐπουρανίων, καθὼς κεχρημάτισται Μωϋσῆς μέλλων ἐπιτελεῖν τὴν σκηνήν, <char style="qt">Ὅρα</char> γάρ φησιν, <char style="qt">ποιήσεις πάντα κατὰ τὸν τύπον τὸν δειχθέντα σοι ἐν τῷ ὄρει·</char> <verse number="6" style="v" /><note caller="*" style="x"><char style="xo" closed="false">8.6 </char><char style="xq" closed="false">κρείττονος … μεσίτης </char><char style="xt" closed="false"><ref loc="HEB 7:22">He 7.22</ref>; <ref loc="HEB 9:15">9.15</ref>; <ref loc="HEB 12:24">12.24</ref></char></note>νυν[ὶ] δὲ διαφορωτέρας τέτυχεν λειτουργίας, ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται.</para>
+  <para style="p">
+    <verse number="7" style="v" />Εἰ γὰρ ἡ πρώτη ἐκείνη ἦν ἄμεμπτος, οὐκ ἂν δευτέρας ἐζητεῖτο τόπος. <verse number="8" style="v" /><note caller="*" style="x"><char style="xo" closed="false">8.8‑12 </char><char style="xq" closed="false">Ἰδοὺ … ἔτι </char><char style="xt" closed="false"><ref loc="JER 31:31-34">Jr 31.31‑34</ref></char></note>μεμφόμενος γὰρ αὐτοὺς<note caller="1" style="f"><char style="fr" closed="false">8.8 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">αὐτούς </char><char style="ft" closed="false">ℵ* A D* I K P Ψ 0150 33 81 256 263 365 436 1319 1573 1912 2127 2464 it<char style="add">ar, b, comp, d</char> vg cop<char style="add">sa, bo, fay</char> arm eth geo slav Cyril Theodoret<char style="add">lem</char> ⫽ </char><char style="fk" closed="false">αὐτοῖς </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ<char style="add">2</char> B D<char style="add">2</char> 075 6 104 424 459 1241 1739 1852 1881 1962 2200 <char style="it">Byz</char> [L] <char style="it">Lect</char> Chrysostom John-Damascus</char></note> λέγει,</para>
+  <para style="q1">
+    <char style="qt">Ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ συντελέσω ἐπὶ τὸν οἶκον Ἰσραὴλ</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἐπὶ τὸν οἶκον Ἰούδα διαθήκην καινήν,</char></para>
+  <para style="q1">
+    <verse number="9" style="v" />
+    <char style="qt">οὐ κατὰ τὴν διαθήκην, ἣν ἐποίησα τοῖς πατράσιν αὐτῶν</char></para>
+  <para style="q2">
+    <char style="qt">ἐν ἡμέρᾳ ἐπιλαβομένου μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν αὐτοὺς ἐκ γῆς Αἰγύπτου,</char></para>
+  <para style="q1">
+    <char style="qt">ὅτι αὐτοὶ οὐκ ἐνέμειναν ἐν τῇ διαθήκῃ μου,</char></para>
+  <para style="q2">
+    <char style="qt">κἀγὼ ἠμέλησα αὐτῶν, λέγει κύριος·</char></para>
+  <para style="q1">
+    <verse number="10" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">8.10 </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 10:16">He 10.16</ref>
+      </char>
+    </note>
+    <char style="qt">ὅτι αὕτη ἡ διαθήκη, ἣν διαθήσομαι τῷ οἴκῳ Ἰσραὴλ</char></para>
+  <para style="q2">
+    <char style="qt">μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος·</char></para>
+  <para style="q1">
+    <char style="qt">διδοὺς νόμους μου εἰς τὴν διάνοιαν αὐτῶν</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἐπὶ καρδίας αὐτῶν ἐπιγράψω αὐτούς,</char></para>
+  <para style="q1">
+    <char style="qt">καὶ ἔσομαι αὐτοῖς εἰς θεόν,</char></para>
+  <para style="q2">
+    <char style="qt">καὶ αὐτοὶ ἔσονταί μοι εἰς λαόν·</char></para>
+  <para style="q1">
+    <verse number="11" style="v" />
+    <char style="qt">καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην</char>
+    <note caller="2" style="f">
+      <char style="fr" closed="false">8.11 </char>
+      <char style="ft" closed="false">{A} </char>
+      <char style="fk" closed="false">πολίτην </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt">Jr 38.34 <char style="sc">lxx</char>)</char> 𝔓<char style="add">46</char> ℵ A B D 075<char style="add">txt</char> 0150 6 33 256 263 424 1241 1319 1573 1739 1852 1881 1962 2127 <char style="it">Byz</char> [K L] <char style="it">Lect</char> it<char style="add">d</char> syr<char style="add">p, h</char> cop<char style="add">sa, bo, fay</char> arm geo ⫽ </char>
+      <char style="fk" closed="false">πλησίον </char>
+      <char style="ft" closed="false">P 075<char style="add">v. r.</char> 81 104 365 436 459 1912 2200 2464 <char style="it">l</char> 590 <char style="it">l</char> 592 <char style="it">l</char> 593 <char style="it">l</char> 596 <char style="it">l</char> 884 <char style="it">l</char> 1159 it<char style="add">ar, b, comp</char> vg syr<char style="add">h<char style="add">mg</char></char> eth slav Chrysostom Cyril BTI</char>
+    </note> <char style="qt">αὐτοῦ</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἕκαστος τὸν ἀδελφὸν αὐτοῦ λέγων, Γνῶθι τὸν κύριον,</char></para>
+  <para style="q1">
+    <char style="qt">ὅτι πάντες εἰδήσουσίν με</char></para>
+  <para style="q2">
+    <char style="qt">ἀπὸ μικροῦ ἕως μεγάλου αὐτῶν,</char></para>
+  <para style="q1">
+    <verse number="12" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">8.12 </char>
+      <char style="xq" closed="false">τῶν … ἔτι </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 10:17">He 10.17</ref>
+      </char>
+    </note>
+    <char style="qt">ὅτι ἵλεως ἔσομαι ταῖς ἀδικίαις αὐτῶν</char></para>
+  <para style="q2">
+    <char style="qt">καὶ τῶν ἁμαρτιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι.</char></para>
+  <para style="m">
+    <verse number="13" style="v" />ἐν τῷ λέγειν <char style="qt">Καινὴν</char> πεπαλαίωκεν τὴν πρώτην· τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ.</para>
+  <chapter number="9" style="c" />
+  <para style="s">The Earthly and the Heavenly Sanctuaries</para>
+  <para style="p">
+    <verse number="1" style="v" />Εἶχεν μὲν οὖν [καὶ]<note caller="1" style="f"><char style="fr" closed="false">9.1 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">καί </char><char style="ft" closed="false">ℵ A D 075 0150 33 81 104 256 365 424 436 459 1241 1319 1573 1852 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] it<char style="add">ar, b, comp, d</char> vg syr<char style="add">h</char> arm slav Ps-Gregory-Thaumaturgus Chrysostom Cyril ⫽ <char style="it">omit</char> 𝔓<char style="add">46vid</char> B 6 263 1739 1881 <char style="it">Lect</char> <char style="it">(beginning of lesson)</char> syr<char style="add">p</char> cop<char style="add">sa, bo, fay</char> eth geo John-Damascus REB EU TOB DHH</char></note> ἡ πρώτη δικαιώματα λατρείας τό τε ἅγιον κοσμικόν. <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.2 </char><char style="xq" closed="false">σκηνὴ γὰρ κατεσκευάσθη </char><char style="xt" closed="false"><ref loc="EXO 26:1-30">Ex 26.1‑30</ref> </char><char style="xq" closed="false">ἥ τε λυχνία </char><char style="xt" closed="false"><ref loc="EXO 25:31-40">Ex 25.31‑40</ref> </char><char style="xq" closed="false">ἡ τράπεζα … ἄρτων </char><char style="xt" closed="false"><ref loc="EXO 25:23-30">Ex 25.23‑30</ref></char></note>σκηνὴ γὰρ κατεσκευάσθη ἡ πρώτη ἐν ᾗ ἥ τε λυχνία καὶ ἡ τράπεζα καὶ ἡ πρόθεσις τῶν ἄρτων, ἥτις λέγεται Ἅγια· <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.3 </char><char style="xt" closed="false"><ref loc="EXO 26:31-33">Ex 26.31‑33</ref></char></note>μετὰ δὲ τὸ δεύτερον καταπέτασμα σκηνὴ ἡ λεγομένη Ἅγια Ἁγίων, <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.4 </char><char style="xq" closed="false">χρυσοῦν ἔχουσα θυμιατήριον </char><char style="xt" closed="false"><ref loc="EXO 30:1-6">Ex 30.1‑6</ref> </char><char style="xq" closed="false">τὴν κιβωτὸν … χρυσίῳ </char><char style="xt" closed="false"><ref loc="EXO 25:10-16">Ex 25.10‑16</ref> </char><char style="xq" closed="false">στάμνος … μάννα </char><char style="xt" closed="false"><ref loc="EXO 16:33">Ex 16.33</ref> </char><char style="xq" closed="false">ἡ ῥάβδος … βλαστήσασα </char><char style="xt" closed="false"><ref loc="NUM 17:8-10">Nu 17.8‑10</ref> </char><char style="xq" closed="false">αἱ πλάκες τῆς διαθήκης </char><char style="xt" closed="false"><ref loc="EXO 25:16">Ex 25.16</ref>; <ref loc="DEU 10:3-5">Dt 10.3‑5</ref></char></note>χρυσοῦν ἔχουσα θυμιατήριον καὶ τὴν κιβωτὸν τῆς διαθήκης περικεκαλυμμένην πάντοθεν χρυσίῳ, ἐν ᾗ στάμνος χρυσῆ ἔχουσα τὸ μάννα καὶ ἡ ῥάβδος Ἀαρὼν ἡ βλαστήσασα καὶ αἱ πλάκες τῆς διαθήκης, <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.5 </char><char style="xq" closed="false">ὑπεράνω … ἱλαστήριον </char><char style="xt" closed="false"><ref loc="EXO 25:18-22">Ex 25.18‑22</ref></char></note>ὑπεράνω δὲ αὐτῆς Χερουβὶν δόξης κατασκιάζοντα τὸ ἱλαστήριον· περὶ ὧν οὐκ ἔστιν νῦν λέγειν κατὰ μέρος.</para>
+  <para style="p">
+    <verse number="6" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">9.6 </char>
+      <char style="xq" closed="false">εἰς … ἐπιτελοῦντες </char>
+      <char style="xt" closed="false">
+        <ref loc="NUM 18:2-6">Nu 18.2‑6</ref>
+      </char>
+    </note>Τούτων δὲ οὕτως κατεσκευασμένων εἰς μὲν τὴν πρώτην σκηνὴν διὰ παντὸς εἰσίασιν οἱ ἱερεῖς τὰς λατρείας ἐπιτελοῦντες, <verse number="7" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.7 </char><char style="xt" closed="false"><ref loc="EXO 30:10">Ex 30.10</ref>; <ref loc="LEV 16:2">Lv 16.2</ref>, <ref loc="LEV 16:14">14</ref>, <ref loc="LEV 16:15">15</ref></char></note>εἰς δὲ τὴν δευτέραν ἅπαξ τοῦ ἐνιαυτοῦ μόνος ὁ ἀρχιερεύς, οὐ χωρὶς αἵματος ὃ προσφέρει ὑπὲρ ἑαυτοῦ καὶ τῶν τοῦ λαοῦ ἀγνοημάτων, <verse number="8" style="v" />τοῦτο δηλοῦντος τοῦ πνεύματος τοῦ ἁγίου, μήπω πεφανερῶσθαι τὴν τῶν ἁγίων ὁδὸν ἔτι τῆς πρώτης σκηνῆς ἐχούσης στάσιν, <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.9 </char><char style="xq" closed="false">δῶρα … λατρεύοντα </char><char style="xt" closed="false"><ref loc="HEB 10:1-2">He 10.1‑2</ref></char></note>ἥτις παραβολὴ εἰς τὸν καιρὸν τὸν ἐνεστηκότα, καθ᾽ ἣν δῶρά τε καὶ θυσίαι προσφέρονται μὴ δυνάμεναι κατὰ συνείδησιν τελειῶσαι τὸν λατρεύοντα, <verse number="10" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.10 </char><char style="xq" closed="false">μόνον ἐπὶ βρώμασιν </char><char style="xt" closed="false"><ref loc="LEV 11:2">Lv 11.2</ref> </char><char style="xq" closed="false">διαφόροις βαπτισμοῖς </char><char style="xt" closed="false"><ref loc="LEV 11:25">Lv 11.25</ref>; <ref loc="LEV 15:18">15.18</ref>; <ref loc="NUM 19:13">Nu 19.13</ref></char></note>μόνον ἐπὶ βρώμασιν καὶ πόμασιν καὶ διαφόροις βαπτισμοῖς, δικαιώματα<note caller="2" style="f"><char style="fr" closed="false">9.10 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">βαπτισμοῖς, δικαιώματα </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ* A I P 33 81 104 256 263 436 459 1573 1739 1881 1912<char style="add">vid</char> 2127 2464 <char style="it">l</char> 596 it<char style="add">b</char> cop<char style="add">sa, (bo), fay<char style="add">vid</char></char> (arm) Didymus<char style="add">vid</char> Cyril ⫽ </char><char style="fk" closed="false">βαπτισμοῖς, δικαίωμα </char><char style="ft" closed="false">D* it<char style="add">d</char> ⫽ </char><char style="fk" closed="false">βαπτισμοῖς καὶ δικαιώματα </char><char style="ft" closed="false">ℵ<char style="add">2</char> B 424<char style="add">c</char> it<char style="add">comp</char>* ⫽ </char><char style="fk" closed="false">βαπτισμοῖς καὶ δικαιώμασιν </char><char style="ft" closed="false">D<char style="add">2</char> 075 0150 365 424* 1241 1319 1852 1962 2200 <char style="it">Byz</char> [K L] <char style="it">Lect</char> (<char style="it">l</char> 884 </char><char style="fk" closed="false">βαπτίσμασι</char><char style="ft" closed="false">) it<char style="add">ar, comp<char style="add">c</char></char> vg syr<char style="add">h</char> geo slav Chrysostom Cyril<char style="add">lem</char></char></note> σαρκὸς μέχρι καιροῦ διορθώσεως ἐπικείμενα.</para>
+  <para style="p">
+    <verse number="11" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">9.11 </char>
+      <char style="xq" closed="false">Χριστὸς … ἀρχιερεύς </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 3:1">He 3.1</ref>; <ref loc="HEB 4:14">4.14</ref>; <ref loc="HEB 6:20">6.20</ref>; <ref loc="HEB 7:26">7.26</ref>; <ref loc="HEB 8:1">8.1</ref> </char>
+      <char style="xq" closed="false">τῶν γενομένων ἀγαθῶν </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 10:1">He 10.1</ref>
+      </char>
+    </note>Χριστὸς δὲ παραγενόμενος ἀρχιερεὺς τῶν γενομένων<note caller="3" style="f"><char style="fr" closed="false">9.11 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">γενομένων </char><char style="ft" closed="false">(𝔓<char style="add">46</char> </char><char style="fk" closed="false">γεναμένων</char><char style="ft" closed="false">) B D* 1739 it<char style="add">d</char> syr<char style="add">(p), h, (pal)</char> geo ⫽ </char><char style="fk" closed="false">μελλόντων </char><char style="ft" closed="false">ℵ A D<char style="add">2</char> I<char style="add">vid</char> 075 0150 33 81 104 256 263 365 424 436 459 1241 1319 1573 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, t</char> vg syr<char style="add">h<char style="add">mg</char></char> cop<char style="add">sa, bo, fay</char> arm eth slav Origen<char style="add">lat</char> Eusebius Cyril-Jerusalem Gregory-Nyssa Macarius/Symeon Chrysostom Theodore Polychronius Cyril Proclus John-Damascus EU LB BJ TOB</char></note> ἀγαθῶν διὰ τῆς μείζονος καὶ τελειοτέρας σκηνῆς οὐ χειροποιήτου, τοῦτ᾽ ἔστιν οὐ ταύτης τῆς κτίσεως, <verse number="12" style="v" />οὐδὲ δι᾽ αἵματος τράγων καὶ μόσχων διὰ δὲ τοῦ ἰδίου αἵματος εἰσῆλθεν ἐφάπαξ εἰς τὰ ἅγια αἰωνίαν λύτρωσιν εὑράμενος. <verse number="13" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.13 </char><char style="xq" closed="false">εἰ … ταύρων </char><char style="xt" closed="false"><ref loc="LEV 16:3">Lv 16.3</ref>, <ref loc="LEV 16:14">14</ref>, <ref loc="LEV 16:15">15</ref>; <ref loc="HEB 10:4">He 10.4</ref> </char><char style="xq" closed="false">σποδὸς δαμάλεως </char><char style="xt" closed="false"><ref loc="NUM 19:9">Nu 19.9</ref>, <ref loc="NUM 19:17-19">17‑19</ref></char></note>εἰ γὰρ τὸ αἷμα τράγων καὶ ταύρων καὶ σποδὸς δαμάλεως ῥαντίζουσα τοὺς κεκοινωμένους ἁγιάζει πρὸς τὴν τῆς σαρκὸς καθαρότητα, <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.14 </char><char style="xq" closed="false">τὸ αἷμα … ἡμῶν </char><char style="xt" closed="false"><ref loc="1PE 1:18-19">1 Pe 1.18‑19</ref>; <ref loc="1JN 1:7">1 Jn 1.7</ref> </char><char style="xq" closed="false">ἀπὸ … ζῶντι </char><char style="xt" closed="false"><ref loc="HEB 6:1">He 6.1</ref></char></note>πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου<note caller="4" style="f"><char style="fr" closed="false">9.14 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">αἰωνίου </char><char style="ft" closed="false">𝔓<char style="add">17vid, 46</char> ℵ* A B D<char style="add">2</char> 075 0150 33 256 263 424<char style="add">c</char> 1241 1573 1739 1881 2127 <char style="it">Byz</char> [K L] <char style="it">Lect</char> it<char style="add">b</char> syr<char style="add">p, h, pal<char style="add">ms</char></char> arm eth geo<char style="add">2</char> Athanasius Didymus<char style="add">dub</char> Theodoret<char style="add">1/2</char>; Ambrose ⫽ </char><char style="fk" closed="false">ἁγίου </char><char style="ft" closed="false">ℵ<char style="add">2</char> D* P 81 104 365 424* 436 459 1319 1852 1912 1962 2200 2464 <char style="it">l</char> 593 <char style="it">l</char> 596 <char style="it">l</char> 597 <char style="it">l</char> 599 <char style="it">l</char> 751 <char style="it">l</char> 884 <char style="it">l</char> 921 <char style="it">l</char> 1159 <char style="it">l</char> 1441 it<char style="add">ar, comp, d</char> vg syr<char style="add">pal<char style="add">ms</char></char> cop<char style="add">sa<char style="add">mss</char>, bo, fay</char> geo<char style="add">1</char> slav Chrysostom Cyril Theodoret<char style="add">1/2</char>; Varimadum</char></note> ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ἡμῶν<note caller="5" style="f"><char style="fr" closed="false">9.14 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">ἡμῶν </char><char style="ft" closed="false">A D* K P 075 365 1319 1739* 1912 <char style="it">l</char> 147 <char style="it">l</char> 422 <char style="it">l</char> 591 <char style="it">l</char> 593 <char style="it">l</char> 599 <char style="it">l</char> 751 <char style="it">l</char> 1441 it<char style="add">comp, d</char> vg<char style="add">cl</char> syr<char style="add">p</char> cop<char style="add">bo<char style="add">pt</char></char> eth<char style="add">TH</char> Athanasius Amphilochius Cyril<char style="add">1/2</char> Theodoret<char style="add">lem</char> ⫽ </char><char style="fk" closed="false">ὑμῶν </char><char style="ft" closed="false">ℵ D<char style="add">2</char> 0150 33 81 104 256 263 424 436 459 1241 1573 1739<char style="add">c</char> 1852 1881 1962 2127 2200 2464 <char style="it">Byz</char> [L] <char style="it">Lect</char> it<char style="add">ar, b, t</char> vg<char style="add">ww, st</char> syr<char style="add">h, pal</char> cop<char style="add">sa, bo<char style="add">pt</char></char> arm eth<char style="add">pp</char> geo slav Athanasius<char style="add">mss</char> Chrysostom Cyril<char style="add">1/2</char></char></note> ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι.<note caller="a" style="f"><char style="fr" closed="false">9.14 </char><char style="ft" closed="false">Question: AD TR</char></note></para>
+  <para style="p">
+    <verse number="15" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">9.15 </char>
+      <char style="xq" closed="false">διαθήκης … ἐστίν </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 7:22">He 7.22</ref>; <ref loc="HEB 8:6">8.6</ref>; <ref loc="HEB 12:24">12.24</ref></char>
+    </note>Καὶ διὰ τοῦτο διαθήκης καινῆς μεσίτης ἐστίν, ὅπως θανάτου γενομένου εἰς ἀπολύτρωσιν τῶν ἐπὶ τῇ πρώτῃ διαθήκῃ παραβάσεων τὴν ἐπαγγελίαν λάβωσιν οἱ κεκλημένοι τῆς αἰωνίου κληρονομίας. <verse number="16" style="v" />ὅπου γὰρ διαθήκη, θάνατον ἀνάγκη φέρεσθαι τοῦ διαθεμένου· <verse number="17" style="v" />διαθήκη γὰρ ἐπὶ νεκροῖς βεβαία, ἐπεὶ μήποτε<note caller="6" style="f"><char style="fr" closed="false">9.17 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">μήποτε </char><char style="ft" closed="false">ℵ<char style="add">2</char> A C D<char style="add">2</char> I 075<char style="add">c</char> 0150 33 81 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 2464 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, d, (t)</char> vg (vg<char style="add">mss</char>) syr<char style="add">h</char> cop<char style="add">sa, bo, fay</char> arm geo Asterius Didymus Chrysostom<char style="add">lem</char>; (Ambrose) ⫽ </char><char style="fk" closed="false">μὴ τότε </char><char style="ft" closed="false">ℵ* D* 075<char style="add">*vid</char> eth</char></note> ἰσχύει ὅτε ζῇ ὁ διαθέμενος.<note caller="b" style="f"><char style="fr" closed="false">9.17 </char><char style="ft" closed="false">Question: WH<char style="add">mg</char></char></note> <verse number="18" style="v" />ὅθεν οὐδὲ ἡ πρώτη χωρὶς αἵματος ἐγκεκαίνισται· <verse number="19" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.19 </char><char style="xt" closed="false"><ref loc="EXO 24:3">Ex 24.3</ref>, <ref loc="EXO 24:6-8">6‑8</ref> </char><char style="xq" closed="false">ἐρίου … ὑσσώπου </char><char style="xt" closed="false"><ref loc="LEV 14:4">Lv 14.4</ref>; <ref loc="NUM 19:6">Nu 19.6</ref></char></note>λαληθείσης γὰρ πάσης ἐντολῆς κατὰ τὸν νόμον ὑπὸ Μωϋσέως παντὶ τῷ λαῷ, λαβὼν τὸ αἷμα τῶν μόσχων [καὶ τῶν τράγων]<note caller="7" style="f"><char style="fr" closed="false">9.19 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">μόσχων καὶ τῶν τράγων </char><char style="ft" closed="false">ℵ* A C 81 436 1912 2464 <char style="it">l</char> 1441 cop<char style="add">sa<char style="add">mss</char></char> arm geo slav ⫽ </char><char style="fk" closed="false">τράγων καὶ τῶν μόσχων </char><char style="ft" closed="false">D 365 (<char style="it">l</char> 921 <char style="it">omit</char> </char><char style="fk" closed="false">τῶν</char><char style="ft" closed="false">) it<char style="add">d, (t)</char> vg<char style="add">mss</char> cop<char style="add">sa<char style="add">ms</char></char> ⫽ </char><char style="fk" closed="false">μόσχων καὶ τράγων </char><char style="ft" closed="false">075 33 104 256 263 424 459 1573 1962 2127 2200 <char style="it">Byz</char> [P] <char style="it">Lect</char> cop<char style="add">bo, fay</char> eth ⫽ </char><char style="fk" closed="false">μόσχων </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ<char style="add">2</char> K L Ψ 0150 1241 1319 1739 1852 1881 syr<char style="add">(p), h, pal</char> Chrysostom NIV REB</char></note> μετὰ ὕδατος καὶ ἐρίου κοκκίνου καὶ ὑσσώπου αὐτό τε τὸ βιβλίον καὶ πάντα τὸν λαὸν ἐρράντισεν <verse number="20" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.20 </char><char style="xq" closed="false">τὸ … θεός </char><char style="xt" closed="false"><ref loc="EXO 24:8">Ex 24.8</ref></char></note>λέγων, Τοῦτο <char style="qt">τὸ αἷμα τῆς διαθήκης ἧς ἐνετείλατο πρὸς ὑμᾶς ὁ θεός.</char> <verse number="21" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.21 </char><char style="xt" closed="false"><ref loc="LEV 8:15">Lv 8.15</ref>, <ref loc="LEV 8:19">19</ref></char></note>καὶ τὴν σκηνὴν δὲ καὶ πάντα τὰ σκεύη τῆς λειτουργίας τῷ αἵματι ὁμοίως ἐρράντισεν. <verse number="22" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.22 </char><char style="xq" closed="false">χωρὶς … ἄφεσις </char><char style="xt" closed="false"><ref loc="LEV 17:11">Lv 17.11</ref></char></note>καὶ σχεδὸν ἐν αἵματι πάντα καθαρίζεται κατὰ τὸν νόμον καὶ χωρὶς αἱματεκχυσίας οὐ γίνεται ἄφεσις.</para>
+  <para style="s">Sin Put Away by Christ’s Sacrifice</para>
+  <para style="p">
+    <verse number="23" style="v" />Ἀνάγκη οὖν τὰ μὲν ὑποδείγματα τῶν ἐν τοῖς οὐρανοῖς τούτοις καθαρίζεσθαι, αὐτὰ δὲ τὰ ἐπουράνια κρείττοσιν θυσίαις παρὰ ταύτας. <verse number="24" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.24 </char><char style="xq" closed="false">νῦν … ἡμῶν </char><char style="xt" closed="false"><ref loc="1JN 2:1">1 Jn 2.1</ref></char></note>οὐ γὰρ εἰς χειροποίητα εἰσῆλθεν ἅγια Χριστός, ἀντίτυπα τῶν ἀληθινῶν, ἀλλ᾽ εἰς αὐτὸν τὸν οὐρανόν, νῦν ἐμφανισθῆναι τῷ προσώπῳ τοῦ θεοῦ ὑπὲρ ἡμῶν· <verse number="25" style="v" />οὐδ᾽ ἵνα πολλάκις προσφέρῃ ἑαυτόν, ὥσπερ ὁ ἀρχιερεὺς εἰσέρχεται εἰς τὰ ἅγια κατ᾽ ἐνιαυτὸν ἐν αἵματι ἀλλοτρίῳ, <verse number="26" style="v" />ἐπεὶ ἔδει αὐτὸν πολλάκις παθεῖν ἀπὸ καταβολῆς κόσμου· νυνὶ δὲ ἅπαξ ἐπὶ συντελείᾳ τῶν αἰώνων εἰς ἀθέτησιν [τῆς] ἁμαρτίας διὰ τῆς θυσίας αὐτοῦ πεφανέρωται. <verse number="27" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.27 </char><char style="xq" closed="false">ἀπόκειται … ἀποθανεῖν </char><char style="xt" closed="false"><ref loc="GEN 3:19">Gn 3.19</ref></char></note>καὶ καθ᾽ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν, μετὰ δὲ τοῦτο κρίσις, <verse number="28" style="v" /><note caller="*" style="x"><char style="xo" closed="false">9.28 </char><char style="xq" closed="false">ὁ Χριστὸς ἅπαξ προσενεχθείς </char><char style="xt" closed="false"><ref loc="HEB 10:10">He 10.10</ref> </char><char style="xq" closed="false">πολλῶν ἀνενεγκεῖν ἁμαρτίας </char><char style="xt" closed="false"><ref loc="ISA 53:12">Is 53.12</ref>; <ref loc="1PE 2:24">1 Pe 2.24</ref> </char><char style="xq" closed="false">ἐκ … ἀπεκδεχομένοις </char><char style="xt" closed="false"><ref loc="PHP 3:20">Php 3.20</ref>; <ref loc="2TI 4:8">2 Tm 4.8</ref></char></note>οὕτως καὶ ὁ Χριστὸς ἅπαξ προσενεχθεὶς εἰς τὸ πολλῶν ἀνενεγκεῖν ἁμαρτίας, ἐκ δευτέρου χωρὶς ἁμαρτίας ὀφθήσεται τοῖς αὐτὸν ἀπεκδεχομένοις εἰς σωτηρίαν.</para>
+  <chapter number="10" style="c" />
+  <para style="p">
+    <verse number="1" style="v" />Σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν, οὐκ αὐτὴν<note caller="1" style="f"><char style="fr" closed="false">10.1 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">οὐκ αὐτήν </char><char style="ft" closed="false">ℵ A C D H<char style="add">vid</char> Ψ 075<char style="add">supp</char> 0150 33 81 104 256 263 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, (d), r, z</char> vg (syr<char style="add">h</char>) (arm) geo slav Origen<char style="add">lat</char> Adamantius<char style="add">lat</char> Gregory-Nyssa Didymus Chrysostom Cyril Hesychius John-Damascus ⫽ </char><char style="fk" closed="false">οὐ κατά </char><char style="ft" closed="false">69 (365 </char><char style="fk" closed="false">οὐ κατὰ τὴν αὐτήν</char><char style="ft" closed="false">) ⫽ </char><char style="fk" closed="false">οὐκ αὐτῶν </char><char style="ft" closed="false">1908 syr<char style="add">p</char> ⫽ </char><char style="fk" closed="false">καί </char><char style="ft" closed="false">𝔓<char style="add">46</char></char></note> τὴν εἰκόνα τῶν πραγμάτων, κατ᾽ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκὲς οὐδέποτε δύναται<note caller="2" style="f"><char style="fr" closed="false">10.1 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">δύναται </char><char style="ft" closed="false">𝔓<char style="add">46</char> D<char style="add">*, 2</char> H Ψ 0150 365 424<char style="add">c</char> 1739 1852 1881 1962 2200 <char style="it">Byz</char><char style="add">pt</char> [K L] <char style="it">l</char> 422 <char style="it">l</char> 883 <char style="it">l</char> 1159 it<char style="add">d, r</char> vg eth geo<char style="add">1</char> Chrysostom ⫽ </char><char style="fk" closed="false">δύνανται </char><char style="ft" closed="false">ℵ A C D<char style="add">1</char> 075<char style="add">supp</char> 33 81 104 256 263 424* 436 459 1241 1319 1573 1912 2127 <char style="it">Byz</char><char style="add">pt</char> [P] <char style="it">Lect</char> it<char style="add">ar, b, comp, z</char> vg<char style="add">ms</char> syr<char style="add">p, h</char> cop<char style="add">sa, bo, fay</char> arm geo<char style="add">2</char> slav</char></note> τοὺς προσερχομένους τελειῶσαι· <verse number="2" style="v" />ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ κεκαθαρισμένους; <verse number="3" style="v" />ἀλλ᾽ ἐν αὐταῖς ἀνάμνησις ἁμαρτιῶν κατ᾽ ἐνιαυτόν· <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.4 </char><char style="xq" closed="false">αἷμα ταύρων καὶ τράγων </char><char style="xt" closed="false"><ref loc="LEV 16:15">Lv 16.15</ref>, <ref loc="LEV 16:21">21</ref>; <ref loc="HEB 9:13">He 9.13</ref></char></note>ἀδύνατον γὰρ αἷμα ταύρων καὶ τράγων ἀφαιρεῖν ἁμαρτίας.</para>
+  <para style="p">
+    <verse number="5" style="v" />Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει,</para>
+  <para style="q1">
+    <char style="qt">Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας,</char></para>
+  <para style="q2">
+    <char style="qt">σῶμα δὲ κατηρτίσω μοι·</char></para>
+  <para style="q1">
+    <verse number="6" style="v" />
+    <char style="qt">ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας.</char></para>
+  <para style="q1">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.5‑7 </char>
+      <char style="xq" closed="false">Θυσίαν … σου </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 40:6-8">Ps 40.6‑8</ref>
+      </char>
+    </note>
+    <char style="qt">τότε εἶπον,</char></para>
+  <para style="q1">
+    <char style="qt">Ἰδοὺ ἥκω,</char></para>
+  <para style="q2">
+    <char style="qt">ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ,</char></para>
+  <para style="q1">
+    <char style="qt">τοῦ ποιῆσαι ὁ θεὸς τὸ θέλημά σου.</char></para>
+  <para style="m">
+    <verse number="8" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.8 </char>
+      <char style="xq" closed="false">Θυσίας καὶ προσφοράς </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 40:6">Ps 40.6</ref> </char>
+      <char style="xq" closed="false">ὁλοκαυτώματα … εὐδόκησας </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 40:6">Ps 40.6</ref>
+      </char>
+    </note>ἀνώτερον λέγων ὅτι <char style="qt">Θυσίας καὶ προσφορὰς</char> καὶ <char style="qt">ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας,</char> αἵτινες κατὰ νόμον προσφέρονται, <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.9 </char><char style="xq" closed="false">Ἰδοὺ … σου </char><char style="xt" closed="false"><ref loc="PSA 40:7">Ps 40.7</ref></char></note><char style="qt">τότε</char> εἴρηκεν, <char style="qt">Ἰδοὺ ἥκω τοῦ ποιῆσαι τὸ θέλημά σου.</char> ἀναιρεῖ τὸ πρῶτον ἵνα τὸ δεύτερον στήσῃ, <verse number="10" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.10 </char><char style="xq" closed="false">ἡγιασμένοι … ἐφάπαξ </char><char style="xt" closed="false"><ref loc="HEB 9:12">He 9.12</ref>, <ref loc="HEB 9:28">28</ref></char></note>ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν διὰ τῆς προσφορᾶς τοῦ σώματος Ἰησοῦ Χριστοῦ ἐφάπαξ.</para>
+  <para style="p">
+    <verse number="11" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.11 </char>
+      <char style="xq" closed="false">πᾶς … θυσίας </char>
+      <char style="xt" closed="false">
+        <ref loc="EXO 29:38">Ex 29.38</ref>
+      </char>
+    </note>Καὶ πᾶς μὲν ἱερεὺς<note caller="3" style="f"><char style="fr" closed="false">10.11 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">ἱερεύς </char><char style="ft" closed="false">𝔓<char style="add">46, 79vid</char> ℵ D Ψ 075<char style="add">supp</char> 33 81 1241 1319 1739 1852 1881 <char style="it">Byz</char> [K L] <char style="it">Lect</char> it<char style="add">ar, b, comp, d, r, z</char> vg cop<char style="add">bo</char> geo slav<char style="add">ms</char> Chrysostom Severian<char style="add">vid</char> Cyril<char style="add">vid</char> ⫽ </char><char style="fk" closed="false">ἀρχιερεύς </char><char style="ft" closed="false">A C P 0150 104 256 263 365 424 436 459 1175 1573 1912 1962 2127 2200 2464 <char style="it">l</char> 147 <char style="it">l</char> 593 <char style="it">l</char> 596 <char style="it">l</char> 1441 syr<char style="add">p, h with *</char> cop<char style="add">sa, fay</char> arm eth slav<char style="add">ms</char> Cyril Theodoret<char style="add">lem</char></char></note> ἕστηκεν καθ᾽ ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας, <verse number="12" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.12 </char><char style="xq" closed="false">ἐκάθισεν … θεοῦ </char><char style="xt" closed="false"><ref loc="PSA 110:1">Ps 110.1</ref> (<ref loc="MAT 22:44">Mt 22.44</ref>; <ref loc="MRK 16:19">Mk 16.19</ref>; <ref loc="ACT 2:34">Ac 2.34</ref>; <ref loc="EPH 1:20">Eph 1.20</ref>; <ref loc="HEB 1:3">He 1.3</ref>; <ref loc="HEB 8:1">8.1</ref>; <ref loc="HEB 12:2">12.2</ref>)</char></note>οὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν<note caller="a" style="f"><char style="fr" closed="false">10.12 </char><char style="ft" closed="false">C: REB<char style="add">mg</char> EU LB BJ NBS TOB BTI<char style="add">mg</char> </char><char style="fk" closed="false">||</char></note> εἰς τὸ διηνεκὲς<note caller="b" style="f"><char style="fr" closed="false">10.12 </char><char style="ft" closed="false">C: GNB NIV NRSV REB NBS<char style="add">mg</char> BTI DHH</char></note> ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ, <verse number="13" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.13 </char><char style="xq" closed="false">ἕως … αὐτοῦ </char><char style="xt" closed="false"><ref loc="PSA 110:1">Ps 110.1</ref></char></note>τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ. <verse number="14" style="v" />μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους.</para>
+  <para style="p">
+    <verse number="15" style="v" />Μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον· μετὰ γὰρ τὸ εἰρηκέναι,</para>
+  <para style="q1">
+    <verse number="16" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.16 </char>
+      <char style="xt" closed="false">
+        <ref loc="JER 31:33">Jr 31.33</ref> (<ref loc="HEB 8:10">He 8.10</ref>)</char>
+    </note>
+    <char style="qt">Αὕτη ἡ διαθήκη ἣν διαθήσομαι</char> πρὸς αὐτοὺς</para>
+  <para style="q2">
+    <char style="qt">μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος·</char></para>
+  <para style="q1">
+    <char style="qt">διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν</char></para>
+  <para style="q2">
+    <char style="qt">καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς,</char></para>
+  <para style="q1">
+    <verse number="17" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.17 </char>
+      <char style="xt" closed="false">
+        <ref loc="JER 31:34">Jr 31.34</ref> (<ref loc="HEB 8:12">He 8.12</ref>)</char>
+    </note>
+    <char style="qt">καὶ τῶν ἁμαρτιῶν αὐτῶν</char> καὶ <char style="qt">τῶν ἀνομιῶν αὐτῶν</char></para>
+  <para style="q2">
+    <char style="qt">οὐ μὴ μνησθήσομαι ἔτι.</char></para>
+  <para style="m">
+    <verse number="18" style="v" />ὅπου δὲ ἄφεσις τούτων, οὐκέτι προσφορὰ περὶ ἁμαρτίας.</para>
+  <para style="s">Exhortation and Warning</para>
+  <para style="p">
+    <verse number="19" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.19 </char>
+      <char style="xq" closed="false">Ἔχοντες … ἁγίων </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 4:16">He 4.16</ref>
+      </char>
+    </note>Ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ, <verse number="20" style="v" />ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ᾽ ἔστιν τῆς σαρκὸς αὐτοῦ, <verse number="21" style="v" />καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ, <verse number="22" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.22 </char><char style="xq" closed="false">ῥεραντισμένοι … πονηρᾶς </char><char style="xt" closed="false"><ref loc="EZK 36:25">Eze 36.25</ref> </char><char style="xq" closed="false">λελουσμένοι … καθαρῷ </char><char style="xt" closed="false"><ref loc="EPH 5:26">Eph 5.26</ref></char></note>προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ· <verse number="23" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.23 </char><char style="xq" closed="false">κατέχωμεν … ἀκλινῆ </char><char style="xt" closed="false"><ref loc="HEB 4:14">He 4.14</ref></char></note>κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ, πιστὸς γὰρ ὁ ἐπαγγειλάμενος, <verse number="24" style="v" />καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, <verse number="25" style="v" />μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν, καθὼς ἔθος τισίν, ἀλλὰ παρακαλοῦντες, καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν.</para>
+  <para style="p">
+    <verse number="26" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.26 </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 6:4-8">He 6.4‑8</ref>
+      </char>
+    </note>Ἑκουσίως γὰρ ἁμαρτανόντων ἡμῶν μετὰ τὸ λαβεῖν τὴν ἐπίγνωσιν τῆς ἀληθείας, οὐκέτι περὶ ἁμαρτιῶν ἀπολείπεται θυσία, <verse number="27" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.27 </char><char style="xq" closed="false">πυρὸς … ὑπεναντίους </char><char style="xt" closed="false"><ref loc="ISA 26:11">Is 26.11</ref></char></note>φοβερὰ δέ τις ἐκδοχὴ κρίσεως καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους. <verse number="28" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.28 </char><char style="xq" closed="false">ἐπὶ … ἀποθνῄσκει </char><char style="xt" closed="false"><ref loc="DEU 17:6">Dt 17.6</ref>; <ref loc="DEU 19:15">19.15</ref></char></note>ἀθετήσας τις νόμον Μωϋσέως χωρὶς οἰκτιρμῶν ἐπὶ δυσὶν ἢ τρισὶν μάρτυσιν ἀποθνῄσκει· <verse number="29" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.29 </char><char style="xq" closed="false">τὸ αἷμα τῆς διαθήκης </char><char style="xt" closed="false"><ref loc="EXO 24:8">Ex 24.8</ref>; <ref loc="HEB 13:20">He 13.20</ref></char></note>πόσῳ δοκεῖτε χείρονος ἀξιωθήσεται τιμωρίας ὁ τὸν υἱὸν τοῦ θεοῦ καταπατήσας καὶ τὸ αἷμα τῆς διαθήκης κοινὸν ἡγησάμενος, ἐν ᾧ ἡγιάσθη, καὶ τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας;<note caller="c" style="f"><char style="fr" closed="false">10.29 </char><char style="ft" closed="false">Statement: M WH REB BJ NBS</char></note> <verse number="30" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.30 </char><char style="xq" closed="false">Ἐμοὶ … ἀνταποδώσω </char><char style="xt" closed="false"><ref loc="DEU 32:35">Dt 32.35</ref> (<ref loc="ROM 12:19">Ro 12.19</ref>) </char><char style="xq" closed="false">Κρινεῖ … αὐτοῦ </char><char style="xt" closed="false"><ref loc="DEU 32:36">Dt 32.36</ref>; <ref loc="PSA 135:14">Ps 135.14</ref></char></note>οἴδαμεν γὰρ τὸν εἰπόντα,</para>
+  <para style="q1">
+    <char style="qt">Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω.</char></para>
+  <para style="m">καὶ πάλιν,</para>
+  <para style="q1">
+    <char style="qt">Κρινεῖ κύριος τὸν λαὸν αὐτοῦ.</char></para>
+  <para style="m">
+    <verse number="31" style="v" />φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος.</para>
+  <para style="p">
+    <verse number="32" style="v" />Ἀναμιμνῄσκεσθε δὲ τὰς πρότερον ἡμέρας, ἐν αἷς φωτισθέντες πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων, <verse number="33" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.33 </char><char style="xq" closed="false">ὀνειδισμοῖς … θεατριζόμενοι </char><char style="xt" closed="false"><ref loc="1CO 4:9">1 Cor 4.9</ref></char></note>τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι, τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες. <verse number="34" style="v" />καὶ γὰρ τοῖς δεσμίοις<note caller="4" style="f"><char style="fr" closed="false">10.34 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">δεσμίοις </char><char style="ft" closed="false">A D* H 0150 6 33 81 424<char style="add">c</char> 1573 1739 1912 2127 it<char style="add">ar, b, comp, μ</char> vg syr<char style="add">p, h, pal</char> cop<char style="add">sa, bo</char> arm geo<char style="add">1</char> Chrysostom; Pelagius ⫽ </char><char style="fk" closed="false">δεσμοῖς </char><char style="ft" closed="false">𝔓<char style="add">46</char> Ψ 075<char style="add">supp</char> 104 256 Origen<char style="add">mss</char> ⫽ </char><char style="fk" closed="false">δεσμοῖς μου </char><char style="ft" closed="false">ℵ D<char style="add">2</char> 263 365 424* 436 459 1175 1241 1319 1852 1881 1962 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> eth geo<char style="add">2</char> slav Clement Origen ⫽ </char><char style="fk" closed="false">δεσμοῖς αὐτῶν </char><char style="ft" closed="false">it<char style="add">d, (r), z</char></char></note> συνεπαθήσατε καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε γινώσκοντες ἔχειν ἑαυτοὺς<note caller="5" style="f"><char style="fr" closed="false">10.34 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">ἑαυτούς </char><char style="ft" closed="false">𝔓<char style="add">13, 46</char> ℵ A H<char style="add">vid</char> Ψ 6 33 81 365 424 436 1739 1912 1962 2127 <char style="it">l</char> 1365 <char style="it">l</char> 1977 it<char style="add">ar, b, comp, d, μ, r, z</char> vg arm Clement ⫽ </char><char style="fk" closed="false">ἑαυτοῖς </char><char style="ft" closed="false">D 104 256 263 459 1175 1241 1319 1573 1852 <char style="it">Byz</char> [K L] <char style="it">Lect</char> slav Chrysostom ⫽ </char><char style="fk" closed="false">ἐν ἑαυτοῖς </char><char style="ft" closed="false">075<char style="add">supp</char> 1881 <char style="it">l</char> 592<char style="add">1/2</char> <char style="it">l</char> 598 <char style="it">l</char> 884<char style="add">1/2</char> <char style="it">l</char> 1439 <char style="it">l</char><char style="add">AD</char> ⫽ </char><char style="fk" closed="false">ὑμᾶς </char><char style="ft" closed="false">0150 ⫽ <char style="it">omit</char> P <char style="it">l</char> 593</char></note> κρείττονα ὕπαρξιν καὶ μένουσαν. <verse number="35" style="v" />μὴ ἀποβάλητε οὖν τὴν παρρησίαν ὑμῶν, ἥτις ἔχει μεγάλην μισθαποδοσίαν. <verse number="36" style="v" /><note caller="*" style="x"><char style="xo" closed="false">10.36 </char><char style="xt" closed="false"><ref loc="LUK 21:19">Lk 21.19</ref>; <ref loc="HEB 6:12">He 6.12</ref></char></note>ὑπομονῆς γὰρ ἔχετε χρείαν ἵνα τὸ θέλημα τοῦ θεοῦ ποιήσαντες κομίσησθε τὴν ἐπαγγελίαν.</para>
+  <para style="q1">
+    <verse number="37" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.37‑38 </char>
+      <char style="xt" closed="false">
+        <ref loc="HAB 2:3-4">Hab 2.3‑4</ref> <char style="sc">lxx</char></char>
+    </note>
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.37 </char>
+      <char style="xq" closed="false">μικρὸν ὅσον ὅσον </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 26:20">Is 26.20</ref> <char style="sc">lxx</char></char>
+    </note>ἔτι γὰρ <char style="qt">μικρὸν ὅσον ὅσον,</char></para>
+  <para style="q2">ὁ <char style="qt">ἐρχόμενος ἥξει καὶ οὐ χρονίσει·</char></para>
+  <para style="q1">
+    <verse number="38" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">10.38 </char>
+      <char style="xq" closed="false">ὁ δὲ … ζήσεται </char>
+      <char style="xt" closed="false">
+        <ref loc="ROM 1:17">Ro 1.17</ref>; <ref loc="GAL 3:11">Ga 3.11</ref></char>
+    </note>
+    <char style="qt">ὁ δὲ δίκαιός μου ἐκ πίστεως</char>
+    <note caller="6" style="f">
+      <char style="fr" closed="false">10.38 </char>
+      <char style="ft" closed="false">{B} </char>
+      <char style="fk" closed="false">δίκαιός μου ἐκ πίστεως </char>
+      <char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A H* 33 1739 it<char style="add">ar, comp, r</char> vg cop<char style="add">sa, bo<char style="add">ms</char></char> arm Clement Theodoret ⫽ </char>
+      <char style="fk" closed="false">δίκαιος ἐκ πίστεώς μου </char>
+      <char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="HAB 2:4">Hab 2.4</ref> <char style="sc">lxx</char>)</char> D* it<char style="add">d, μ</char> syr<char style="add">p, h</char> Eusebius<char style="add">1/2</char>; Faustus ⫽ </char>
+      <char style="fk" closed="false">δίκαιος ἐκ πίστεως </char>
+      <char style="ft" closed="false">𝔓<char style="add">13</char> D<char style="add">2</char> H<char style="add">c</char> I Ψ 0150 6 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1852 1881 1912 1962 2127 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">b, z</char> vg<char style="add">mss</char> syr<char style="add">pal</char> cop<char style="add">bo</char> eth geo slav Eusebius<char style="add">1/2</char> Chrysostom; Ambrose</char>
+    </note> <char style="qt">ζήσεται,</char></para>
+  <para style="q1">καὶ <char style="qt">ἐὰν ὑποστείληται,</char></para>
+  <para style="q2">
+    <char style="qt">οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ.</char></para>
+  <para style="m">
+    <verse number="39" style="v" />ἡμεῖς δὲ οὐκ ἐσμὲν ὑποστολῆς εἰς ἀπώλειαν ἀλλὰ πίστεως εἰς περιποίησιν ψυχῆς.</para>
+  <chapter number="11" style="c" />
+  <para style="s">Faith</para>
+  <para style="p">
+    <verse number="1" style="v" />Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων<note caller="1" style="f"><char style="fr" closed="false">11.1 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">ὑπόστασις, πραγμάτων </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A D<char style="add">2</char> (D* </char><char style="fk" closed="false">ὑπόστασιν</char><char style="ft" closed="false">) Ψ 0150 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">comp, d, r, z*</char> vg<char style="add">ww, st</char> (it<char style="add">z<char style="add">c</char></char> vg<char style="add">cl</char> arm Jerome </char><char style="fk" closed="false">ὑπόστασις πραγμάτων,</char><char style="ft" closed="false">) syr<char style="add">h</char> cop<char style="add">sa, bo</char> (eth) geo slav Clement Origen<char style="add">gr</char> Eusebius Cyril-Jerusalem Apollinaris Didymus Chrysostom John-Damascus; Ambrose Augustine ⫽ </char><char style="fk" closed="false">πραγμάτων ἀνάστασις </char><char style="ft" closed="false">𝔓<char style="add">13</char> it<char style="add">b</char> Origen<char style="add">lat</char>; Sedulius-Scottus<char style="add">vid</char></char></note> ἔλεγχος οὐ βλεπομένων. <verse number="2" style="v" />ἐν ταύτῃ γὰρ ἐμαρτυρήθησαν οἱ πρεσβύτεροι.</para>
+  <para style="p">
+    <verse number="3" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.3 </char>
+      <char style="xq" closed="false">κατηρτίσθαι … γεγονέναι </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 1:1">Gn 1.1</ref>; <ref loc="PSA 33:6">Ps 33.6</ref>, <ref loc="PSA 33:9">9</ref>; <ref loc="2PE 3:5">2 Pe 3.5</ref> </char>
+      <char style="xq" closed="false">εἰς … γεγονέναι </char>
+      <char style="xt" closed="false">
+        <ref loc="ROM 4:17">Ro 4.17</ref>
+      </char>
+    </note>Πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ, εἰς τὸ μὴ ἐκ φαινομένων τὸ βλεπόμενον γεγονέναι.</para>
+  <para style="p">
+    <verse number="4" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.4 </char>
+      <char style="xq" closed="false">πλείονα … θεοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 4:3-10">Gn 4.3‑10</ref>
+      </char>
+    </note>Πίστει πλείονα θυσίαν Ἅβελ παρὰ Κάϊν προσήνεγκεν τῷ θεῷ, δι᾽ ἧς ἐμαρτυρήθη εἶναι δίκαιος, μαρτυροῦντος ἐπὶ τοῖς δώροις αὐτοῦ τοῦ θεοῦ, καὶ δι᾽ αὐτῆς ἀποθανὼν ἔτι λαλεῖ. <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.5 </char><char style="xq" closed="false">Ἑνὼχ … θεός </char><char style="xt" closed="false"><ref loc="GEN 5:24">Gn 5.24</ref>; <ref loc="SIR 44:16">Sir 44.16</ref>; En 70.1‑4; <ref loc="WIS 4:10">Wsd 4.10</ref></char></note>Πίστει Ἑνὼχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον, καὶ <char style="qt">οὐχ ηὑρίσκετο διότι μετέθηκεν αὐτὸν ὁ θεός.</char> πρὸ γὰρ τῆς μεταθέσεως μεμαρτύρηται <char style="qt">εὐαρεστηκέναι τῷ θεῷ·</char> <verse number="6" style="v" />χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι· πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται. <verse number="7" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.7 </char><char style="xq" closed="false">χρηματισθεὶς … αὐτοῦ </char><char style="xt" closed="false"><ref loc="GEN 6:13-22">Gn 6.13‑22</ref>; <ref loc="GEN 7:1">7.1</ref>; <ref loc="1PE 3:20">1 Pe 3.20</ref> </char><char style="xq" closed="false">τῆς … δικαιοσύνης </char><char style="xt" closed="false"><ref loc="ROM 3:22">Ro 3.22</ref>; <ref loc="ROM 4:13">4.13</ref>; <ref loc="ROM 9:30">9.30</ref></char></note>Πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων, εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ δι᾽ ἧς κατέκρινεν τὸν κόσμον, καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος.</para>
+  <para style="p">
+    <verse number="8" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.8 </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 12:1-5">Gn 12.1‑5</ref>; <ref loc="ACT 7:2-4">Ac 7.2‑4</ref></char>
+    </note>Πίστει καλούμενος Ἀβραὰμ ὑπήκουσεν ἐξελθεῖν εἰς τόπον ὃν ἤμελλεν λαμβάνειν εἰς κληρονομίαν, καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται. <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.9 </char><char style="xt" closed="false"><ref loc="GEN 23:4">Gn 23.4</ref>; <ref loc="GEN 26:3">26.3</ref>; <ref loc="GEN 35:12">35.12</ref>, <ref loc="GEN 35:27">27</ref></char></note>Πίστει παρῴκησεν εἰς γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακὼβ τῶν συγκληρονόμων τῆς ἐπαγγελίας τῆς αὐτῆς· <verse number="10" style="v" />ἐξεδέχετο γὰρ τὴν τοὺς θεμελίους ἔχουσαν πόλιν ἧς τεχνίτης καὶ δημιουργὸς ὁ θεός. <verse number="11" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.11 </char><char style="xq" closed="false">αὐτὴ … ἡλικίας </char><char style="xt" closed="false"><ref loc="GEN 17:19">Gn 17.19</ref>; <ref loc="GEN 18:11-14">18.11‑14</ref>; <ref loc="GEN 21:2">21.2</ref></char></note>Πίστει<note caller="a" style="f"><char style="fr" closed="false">11.11 </char><char style="ft" closed="false">Dash: (GNB) NIV NRSV (BTI) (DHH) </char><char style="fk" closed="false">||</char></note> καὶ αὐτὴ Σάρρα στεῖρα<note caller="b" style="f"><char style="fr" closed="false">11.11 </char><char style="ft" closed="false">Dash: GNB NIV NRSV (BTI) (DHH)</char></note> δύναμιν<note caller="2" style="f"><char style="fr" closed="false">11.11 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">πίστει καὶ αὐτὴ Σάρρα στεῖρα δύναμιν </char><char style="ft" closed="false">𝔓<char style="add">46</char> D* Ψ geo slav ⫽ </char><char style="fk" closed="false">πίστει καὶ αὐτὴ Σάρρα ἡ στεῖρα δύναμιν </char><char style="ft" closed="false">D<char style="add">1</char> 6 81 424<char style="add">c</char> 1241 1739 1881 1962 (<char style="it">or omit</char> </char><char style="fk" closed="false">ἡ </char><char style="ft" closed="false">it<char style="add">ar, b, comp, d, z</char> vg) cop<char style="add">sa, bo</char> ⫽ </char><char style="fk" closed="false">πίστει Σάρρα ἡ στεῖρα καὶ ἀυτὴ δύναμιν </char><char style="ft" closed="false">0150 ⫽ </char><char style="fk" closed="false">πίστει καὶ ἀυτὴ Σάρρα στεῖρα οὖσα δύναμιν </char><char style="ft" closed="false">P 075 104 256 263 365 436 459 1319 1573 1912 2127 <char style="it">l</char> 596 arm eth ⫽ </char><char style="fk" closed="false">πίστει καὶ ἀυτὴ Σάρρα δύναμιν </char><char style="ft" closed="false">𝔓<char style="add">13vid</char> ℵ A D<char style="add">2</char> 33 424* 1175 1852 2200 <char style="it">Byz</char> [K L] <char style="it">Lect</char> Chrysostom; Augustine REB EU BJ TOB DHH</char></note> εἰς καταβολὴν σπέρματος ἔλαβεν καὶ παρὰ καιρὸν ἡλικίας, ἐπεὶ πιστὸν ἡγήσατο τὸν ἐπαγγειλάμενον. <verse number="12" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.12 </char><char style="xq" closed="false">ἀφ᾽ … νενεκρωμένου </char><char style="xt" closed="false"><ref loc="ROM 4:19">Ro 4.19</ref> </char><char style="xq" closed="false">καθὼς … ἀναρίθμητος </char><char style="xt" closed="false"><ref loc="GEN 15:5-6">Gn 15.5‑6</ref>; <ref loc="GEN 22:17">22.17</ref>; <ref loc="GEN 32:12">32.12</ref>; <ref loc="EXO 32:13">Ex 32.13</ref>; <ref loc="DEU 1:10">Dt 1.10</ref>; <ref loc="DEU 10:22">10.22</ref>; Dn 3.36 <char style="sc">lxx</char>; <ref loc="SIR 44:21">Sir 44.21</ref></char></note>διὸ καὶ ἀφ᾽ ἑνὸς ἐγεννήθησαν, καὶ ταῦτα νενεκρωμένου, καθὼς τὰ ἄστρα τοῦ οὐρανοῦ τῷ πλήθει καὶ ὡς ἡ ἄμμος ἡ παρὰ τὸ χεῖλος τῆς θαλάσσης ἡ ἀναρίθμητος.</para>
+  <para style="p">
+    <verse number="13" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.13 </char>
+      <char style="xq" closed="false">ξένοι … γῆς </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 23:4">Gn 23.4</ref>; <ref loc="GEN 47:9">47.9</ref>; <ref loc="1CH 29:15">1 Chr 29.15</ref>; <ref loc="PSA 39:12">Ps 39.12</ref>; <ref loc="1PE 2:11">1 Pe 2.11</ref></char>
+    </note>Κατὰ πίστιν ἀπέθανον οὗτοι πάντες, μὴ λαβόντες τὰς ἐπαγγελίας ἀλλὰ πόρρωθεν αὐτὰς ἰδόντες καὶ ἀσπασάμενοι καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς. <verse number="14" style="v" />οἱ γὰρ τοιαῦτα λέγοντες ἐμφανίζουσιν ὅτι πατρίδα ἐπιζητοῦσιν. <verse number="15" style="v" />καὶ εἰ μὲν ἐκείνης ἐμνημόνευον ἀφ᾽ ἧς ἐξέβησαν, εἶχον ἂν καιρὸν ἀνακάμψαι· <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.16 </char><char style="xq" closed="false">οὐκ … αὐτῶν </char><char style="xt" closed="false"><ref loc="EXO 3:6">Ex 3.6</ref>, <ref loc="EXO 3:15">15</ref>; <ref loc="EXO 4:5">4.5</ref>; <ref loc="MRK 12:26">Mk 12.26</ref></char></note>νῦν δὲ κρείττονος ὀρέγονται, τοῦτ᾽ ἔστιν ἐπουρανίου. διὸ οὐκ ἐπαισχύνεται αὐτοὺς ὁ θεὸς θεὸς ἐπικαλεῖσθαι αὐτῶν· ἡτοίμασεν γὰρ αὐτοῖς πόλιν.</para>
+  <para style="p">
+    <verse number="17" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.17 </char>
+      <char style="xt" closed="false">
+        <ref loc="GEN 22:1-10">Gn 22.1‑10</ref>; <ref loc="JAS 2:21">Jas 2.21</ref></char>
+    </note>Πίστει προσενήνοχεν Ἀβραὰμ τὸν Ἰσαὰκ πειραζόμενος καὶ τὸν μονογενῆ προσέφερεν, ὁ τὰς ἐπαγγελίας ἀναδεξάμενος, <verse number="18" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.18 </char><char style="xq" closed="false">Ἐν … σπέρμα </char><char style="xt" closed="false"><ref loc="GEN 21:12">Gn 21.12</ref> (<ref loc="ROM 9:7">Ro 9.7</ref>)</char></note>πρὸς ὃν ἐλαλήθη ὅτι <char style="qt">Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα,</char> <verse number="19" style="v" />λογισάμενος ὅτι καὶ ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ θεός, ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο. <verse number="20" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.20 </char><char style="xt" closed="false"><ref loc="GEN 27:27-29">Gn 27.27‑29</ref>, <ref loc="GEN 27:39-40">39‑40</ref></char></note>Πίστει καὶ περὶ μελλόντων εὐλόγησεν Ἰσαὰκ τὸν Ἰακὼβ καὶ τὸν Ἠσαῦ. <verse number="21" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.21 </char><char style="xq" closed="false">Ἰακὼβ … εὐλόγησεν </char><char style="xt" closed="false"><ref loc="GEN 48:15-16">Gn 48.15‑16</ref> </char><char style="xq" closed="false">προσεκύνησεν … αὐτοῦ </char><char style="xt" closed="false"><ref loc="GEN 47:31">Gn 47.31</ref> <char style="sc">lxx</char></char></note>Πίστει Ἰακὼβ ἀποθνῄσκων ἕκαστον τῶν υἱῶν Ἰωσὴφ εὐλόγησεν καὶ <char style="qt">προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ.</char> <verse number="22" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.22 </char><char style="xt" closed="false"><ref loc="GEN 50:24-25">Gn 50.24‑25</ref>; <ref loc="EXO 13:19">Ex 13.19</ref></char></note>Πίστει Ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐμνημόνευσεν καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο.</para>
+  <para style="p">
+    <verse number="23" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">11.23 </char>
+      <char style="xq" closed="false">Μωϋσῆς … αὐτοῦ </char>
+      <char style="xt" closed="false">
+        <ref loc="EXO 2:2">Ex 2.2</ref> </char>
+      <char style="xq" closed="false">οὐκ … βασιλέως </char>
+      <char style="xt" closed="false">
+        <ref loc="EXO 1:22">Ex 1.22</ref>
+      </char>
+    </note>Πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ, διότι εἶδον ἀστεῖον τὸ παιδίον καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως<note caller="3" style="f"><char style="fr" closed="false">11.23 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">βασιλέως. </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A D<char style="add">2</char> I Ψ 075 0150 6 33 81 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp, z</char> vg syr<char style="add">p, h</char> cop<char style="add">sa, bo, fay</char> arm eth geo slav Chrysostom ⫽ </char><char style="fk" closed="false">βασιλέως. Πίστει μέγας γενόμενος Μωϋσῆς ἀνεῖλεν τὸν Αἰγύπτιον κατανοῶν τὴν ταπείνωσιν τῶν ἀδελφῶν αὐτοῦ. </char><char style="ft" closed="false">D* it<char style="add">d</char> vg<char style="add">ms</char></char></note>. <verse number="24" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.24 </char><char style="xt" closed="false"><ref loc="EXO 2:10-12">Ex 2.10‑12</ref></char></note>Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, <verse number="25" style="v" />μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν, <verse number="26" style="v" />μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ Χριστοῦ· ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν. <verse number="27" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.27 </char><char style="xq" closed="false">κατέλιπεν Αἴγυπτον </char><char style="xt" closed="false"><ref loc="EXO 2:15">Ex 2.15</ref>; <ref loc="EXO 12:51">12.51</ref></char></note>Πίστει κατέλιπεν Αἴγυπτον μὴ φοβηθεὶς τὸν θυμὸν τοῦ βασιλέως· τὸν γὰρ ἀόρατον ὡς ὁρῶν ἐκαρτέρησεν. <verse number="28" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.28 </char><char style="xt" closed="false"><ref loc="EXO 12:21-30">Ex 12.21‑30</ref></char></note>Πίστει πεποίηκεν τὸ πάσχα καὶ τὴν πρόσχυσιν τοῦ αἵματος, ἵνα μὴ ὁ ὀλοθρεύων τὰ πρωτότοκα θίγῃ αὐτῶν. <verse number="29" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.29 </char><char style="xt" closed="false"><ref loc="EXO 14:21-31">Ex 14.21‑31</ref></char></note>Πίστει διέβησαν τὴν Ἐρυθρὰν Θάλασσαν ὡς διὰ ξηρᾶς γῆς, ἧς πεῖραν λαβόντες οἱ Αἰγύπτιοι κατεπόθησαν. <verse number="30" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.30 </char><char style="xt" closed="false"><ref loc="JOS 6:12-21">Jos 6.12‑21</ref></char></note>Πίστει τὰ τείχη Ἰεριχὼ ἔπεσαν κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας. <verse number="31" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.31 </char><char style="xt" closed="false"><ref loc="JOS 2:11-12">Jos 2.11‑12</ref>; <ref loc="JOS 6:21-25">6.21‑25</ref>; <ref loc="JAS 2:25">Jas 2.25</ref></char></note>Πίστει Ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασιν δεξαμένη τοὺς κατασκόπους μετ᾽ εἰρήνης.</para>
+  <para style="p">
+    <verse number="32" style="v" />Καὶ τί ἔτι λέγω; ἐπιλείψει με γὰρ διηγούμενον ὁ χρόνος περὶ Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν, <verse number="33" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.33 </char><char style="xq" closed="false">ἔφραξαν στόματα λεόντων </char><char style="xt" closed="false"><ref loc="JDG 14:6-7">Jdg 14.6‑7</ref>; <ref loc="1SA 17:34-36">1 Sm 17.34‑36</ref>; <ref loc="DAN 6:1-27">Dn 6.1‑27</ref></char></note>οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, εἰργάσαντο δικαιοσύνην, ἐπέτυχον ἐπαγγελιῶν, ἔφραξαν στόματα λεόντων, <verse number="34" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.34 </char><char style="xq" closed="false">ἔσβεσαν δύναμιν πυρός </char><char style="xt" closed="false"><ref loc="DAN 3:23-25">Dn 3.23‑25</ref></char></note>ἔσβεσαν δύναμιν πυρός, ἔφυγον στόματα μαχαίρης, ἐδυναμώθησαν ἀπὸ ἀσθενείας, ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, παρεμβολὰς ἔκλιναν ἀλλοτρίων. <verse number="35" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.35 </char><char style="xq" closed="false">ἔλαβον … αὐτῶν </char><char style="xt" closed="false"><ref loc="1KI 17:17-24">1 Kgs 17.17‑24</ref>; <ref loc="2KI 4:25-37">2 Kgs 4.25‑37</ref> </char><char style="xq" closed="false">ἄλλοι … τύχωσιν </char><char style="xt" closed="false"><ref loc="2MA 6:18-7:42">2 Macc 6.18–7.42</ref></char></note>ἔλαβον γυναῖκες ἐξ ἀναστάσεως τοὺς νεκροὺς αὐτῶν· ἄλλοι δὲ ἐτυμπανίσθησαν οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, ἵνα κρείττονος ἀναστάσεως τύχωσιν· <verse number="36" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.36 </char><char style="xt" closed="false"><ref loc="1KI 22:26-27">1 Kgs 22.26‑27</ref>; <ref loc="2CH 18:25-26">2 Chr 18.25‑26</ref>; <ref loc="JER 20:2">Jr 20.2</ref>; <ref loc="JER 37:15">37.15</ref>; <ref loc="JER 38:6">38.6</ref></char></note>ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον, ἔτι δὲ δεσμῶν καὶ φυλακῆς· <verse number="37" style="v" /><note caller="*" style="x"><char style="xo" closed="false">11.37 </char><char style="xq" closed="false">ἐλιθάσθησαν </char><char style="xt" closed="false"><ref loc="2CH 24:21">2 Chr 24.21</ref> </char><char style="xq" closed="false">ἐπρίσθησαν </char><char style="xt" closed="false">Ascension of </char><char style="xt" closed="false"><ref loc="ISA 5:11-14">Is 5.11‑14</ref></char></note>ἐλιθάσθησαν, ἐπρίσθησαν<note caller="4" style="f"><char style="fr" closed="false">11.37 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">ἐπρίσθησαν </char><char style="ft" closed="false">𝔓<char style="add">46</char> 1241 <char style="it">l</char> 422<char style="add">1/3</char> <char style="it">l</char> 592<char style="add">1/3</char> <char style="it">l</char> 1356<char style="add">1/3</char> <char style="it">l</char> 1364<char style="add">1/3</char> syr<char style="add">p</char> (cop<char style="add">sa</char>) eth Origen<char style="add">gr1/5, lat1/2</char> Eusebius (Didymus) Nilus; Caesarius ⫽ </char><char style="fk" closed="false">ἐπειράσθησαν </char><char style="ft" closed="false">0150 vg<char style="add">mss</char> Clement ⫽ </char><char style="fk" closed="false">ἐπρίσθησαν, ἐπειράσθησαν </char><char style="ft" closed="false">𝔓<char style="add">13vid</char> A D<char style="add">2</char> 075 6 104 256 263 365 424 436 459 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K] <char style="it">Lect</char> it<char style="add">ar, b, comp, (d), z</char> vg (syr<char style="add">pal</char>) cop<char style="add">bo</char> arm (geo) slav Origen<char style="add">gr4/5, lat1/2</char> Acacius Chrysostom; Ambrose ⫽ </char><char style="fk" closed="false">ἐπρήσθησαν, ἐπειράσθησαν </char><char style="ft" closed="false">Ψ<char style="add">vid</char> <char style="it">l</char> 147<char style="add">2/3</char> <char style="it">l</char> 603<char style="add">1/3</char> <char style="it">l</char> 1439<char style="add">1/3</char> EU (?) ⫽ </char><char style="fk" closed="false">ἐπειράσθησαν, ἐπρίσθησαν </char><char style="ft" closed="false">ℵ L P 048 33 81 syr<char style="add">h</char> cop<char style="add">bo<char style="add">ms</char></char> Jerome ⫽ </char><char style="fk" closed="false">ἐπειράσθησαν, ἐπειράσθησαν </char><char style="ft" closed="false"><char style="it">[sic]</char> D* <char style="it">l</char> 593<char style="add">1/3</char> (<char style="it">l</char> 617<char style="add">1/3</char> </char><char style="fk" closed="false">ἐπρίσθησαν, ἐπρίσθησαν</char><char style="ft" closed="false">)</char></note>, ἐν φόνῳ μαχαίρης ἀπέθανον, περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι, <verse number="38" style="v" />ὧν οὐκ ἦν ἄξιος ὁ κόσμος, ἐπὶ ἐρημίαις πλανώμενοι καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς.</para>
+  <para style="p">
+    <verse number="39" style="v" />Καὶ οὗτοι πάντες μαρτυρηθέντες διὰ τῆς πίστεως οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν, <verse number="40" style="v" />τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου, ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν.</para>
+  <chapter number="12" style="c" />
+  <para style="s">The Discipline of the Lord</para>
+  <para style="p">
+    <verse number="1" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.1 </char>
+      <char style="xq" closed="false">τρέχωμεν … ἀγῶνα </char>
+      <char style="xt" closed="false">
+        <ref loc="1CO 9:24">1 Cor 9.24</ref>
+      </char>
+    </note>Τοιγαροῦν καὶ ἡμεῖς τοσοῦτον ἔχοντες περικείμενον ἡμῖν νέφος μαρτύρων, ὄγκον ἀποθέμενοι πάντα καὶ τὴν εὐπερίστατον<note caller="1" style="f"><char style="fr" closed="false">12.1 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">εὐπερίστατον </char><char style="ft" closed="false">𝔓<char style="add">13</char> ℵ A D Ψ 0150 6 33 81 104 256 263 365 424 436 459 1241 1319 1573 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> it<char style="add">ar, b, comp</char> vg syr<char style="add">(p), h</char> cop<char style="add">sa, bo</char> arm geo slav Clement Chrysostom Severian Cyril ⫽ </char><char style="fk" closed="false">εὐπερίσπαστον </char><char style="ft" closed="false">𝔓<char style="add">46</char> 1739 it<char style="add">d, z</char> (Ps-Augustine)</char></note> ἁμαρτίαν, δι᾽ ὑπομονῆς τρέχωμεν τὸν προκείμενον ἡμῖν ἀγῶνα <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.2 </char><char style="xq" closed="false">ἐν … κεκάθικεν </char><char style="xt" closed="false"><ref loc="PSA 110:1">Ps 110.1</ref>; <ref loc="MAT 22:44">Mt 22.44</ref>; <ref loc="MRK 16:19">Mk 16.19</ref>; <ref loc="ACT 2:34">Ac 2.34</ref>; <ref loc="EPH 1:20">Eph 1.20</ref>; <ref loc="HEB 1:3">He 1.3</ref>; <ref loc="HEB 8:1">8.1</ref>; <ref loc="HEB 10:12">10.12</ref></char></note>ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν, ὃς ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρὸν αἰσχύνης καταφρονήσας ἐν δεξιᾷ τε τοῦ θρόνου τοῦ θεοῦ κεκάθικεν. <verse number="3" style="v" />ἀναλογίσασθε γὰρ τὸν τοιαύτην ὑπομεμενηκότα ὑπὸ τῶν ἁμαρτωλῶν εἰς ἑαυτὸν<note caller="2" style="f"><char style="fr" closed="false">12.3 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">εἰς ἑαυτόν </char><char style="ft" closed="false">A P 0150 104 263 459 1241 1319 (<char style="it">l</char> 895 </char><char style="fk" closed="false">αὑτόν</char><char style="ft" closed="false">) it<char style="add">ar</char> vg<char style="add">cl</char> (<char style="it">or</char> </char><char style="fk" closed="false">αὐτόν </char><char style="ft" closed="false">syr<char style="add">p</char>) ⫽ </char><char style="fk" closed="false">εἰς αὐτόν </char><char style="ft" closed="false">D<char style="add">2</char> Ψ* 6 365 424 436 1175 1739<char style="add">c</char> 1852 1881 1912 1962 2200 <char style="it">Byz</char> [K L] <char style="it">Lect</char> slav Chrysostom ⫽ </char><char style="fk" closed="false">εἰς ἑαυτούς </char><char style="ft" closed="false">ℵ* D* 256 1573 2127 (<char style="it">or</char> </char><char style="fk" closed="false">αὐτούς </char><char style="ft" closed="false">it<char style="add">b, comp, z</char> vg<char style="add">ww, st</char> cop<char style="add">bo</char>) syr<char style="add">p</char> Ps-Dionysius ⫽ </char><char style="fk" closed="false">εἰς αὐτούς </char><char style="ft" closed="false">𝔓<char style="add">13, 46</char> ℵ<char style="add">2</char> Ψ<char style="add">c</char> 048 33 81<char style="add">vid</char> 1739* Theodoret<char style="add">lem</char> ⫽ </char><char style="fk" closed="false">ἐν ὑμῖν </char><char style="ft" closed="false">it<char style="add">d</char> eth ⫽ <char style="it">omit</char> <char style="it">l</char> 590 cop<char style="add">sa</char> arm geo</char></note> ἀντιλογίαν, ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν ἐκλυόμενοι.</para>
+  <para style="p">
+    <verse number="4" style="v" />Οὔπω μέχρις αἵματος ἀντικατέστητε πρὸς τὴν ἁμαρτίαν ἀνταγωνιζόμενοι. <verse number="5" style="v" />καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται,</para>
+  <para style="q1">
+    <char style="qt">Υἱέ μου, μὴ ὀλιγώρει παιδείας κυρίου</char></para>
+  <para style="q2">
+    <char style="qt">μηδὲ ἐκλύου ὑπ᾽ αὐτοῦ ἐλεγχόμενος·</char></para>
+  <para style="q1">
+    <verse number="6" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.5‑6 </char>
+      <char style="xq" closed="false">Υἱέ … παραδέχεται </char>
+      <char style="xt" closed="false">
+        <ref loc="PRO 3:11-12">Pr 3.11‑12</ref>
+      </char>
+    </note>
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.6 </char>
+      <char style="xq" closed="false">ὃν γὰρ … παιδεύει </char>
+      <char style="xt" closed="false">
+        <ref loc="REV 3:19">Re 3.19</ref>
+      </char>
+    </note>
+    <char style="qt">ὃν γὰρ ἀγαπᾷ κύριος παιδεύει,</char></para>
+  <para style="q2">
+    <char style="qt">μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται.</char></para>
+  <para style="m">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.7 </char>
+      <char style="xq" closed="false">ὡς … πατήρ </char>
+      <char style="xt" closed="false">
+        <ref loc="DEU 8:5">Dt 8.5</ref>; <ref loc="2SA 7:14">2 Sm 7.14</ref></char>
+    </note>εἰς παιδείαν ὑπομένετε, ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός. τίς γὰρ υἱὸς ὃν οὐ παιδεύει πατήρ; <verse number="8" style="v" />εἰ δὲ χωρίς ἐστε παιδείας ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.9 </char><char style="xq" closed="false">τῷ … πνευμάτων </char><char style="xt" closed="false"><ref loc="NUM 16:22">Nu 16.22</ref>; <ref loc="NUM 27:16">27.16</ref></char></note>εἶτα τοὺς μὲν τῆς σαρκὸς ἡμῶν πατέρας εἴχομεν παιδευτὰς καὶ ἐνετρεπόμεθα· οὐ πολὺ [δὲ] μᾶλλον ὑποταγησόμεθα τῷ πατρὶ τῶν πνευμάτων καὶ ζήσομεν; <verse number="10" style="v" />οἱ μὲν γὰρ πρὸς ὀλίγας ἡμέρας κατὰ τὸ δοκοῦν αὐτοῖς ἐπαίδευον, ὁ δὲ ἐπὶ τὸ συμφέρον εἰς τὸ μεταλαβεῖν τῆς ἁγιότητος αὐτοῦ. <verse number="11" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.11 </char><char style="xq" closed="false">καρπὸν εἰρηνικὸν … δικαιοσύνης </char><char style="xt" closed="false"><ref loc="JAS 3:17-18">Jas 3.17‑18</ref></char></note>πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι᾽ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.</para>
+  <para style="p">
+    <verse number="12" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.12 </char>
+      <char style="xq" closed="false">τὰς … ἀνορθώσατε </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 35:3">Is 35.3</ref>; <ref loc="SIR 25:23">Sir 25.23</ref></char>
+    </note>Διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε, <verse number="13" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.13 </char><char style="xq" closed="false">τροχιὰς … ὑμῶν </char><char style="xt" closed="false"><ref loc="PRO 4:26">Pr 4.26</ref> <char style="sc">lxx</char></char></note>καὶ τροχιὰς ὀρθὰς ποιεῖτε τοῖς ποσὶν ὑμῶν, ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον.</para>
+  <para style="s">Warning against Rejecting God’s Grace</para>
+  <para style="p">
+    <verse number="14" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.14 </char>
+      <char style="xq" closed="false">Εἰρήνην … πάντων </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 34:14">Ps 34.14</ref>; <ref loc="ROM 12:18">Ro 12.18</ref></char>
+    </note>Εἰρήνην διώκετε μετὰ πάντων καὶ τὸν ἁγιασμόν, οὗ χωρὶς οὐδεὶς ὄψεται τὸν κύριον, <verse number="15" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.15 </char><char style="xq" closed="false">μή τις ῥίζα … ἐνοχλῇ </char><char style="xt" closed="false"><ref loc="DEU 29:17">Dt 29.17</ref> <char style="sc">lxx</char></char></note>ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι᾽ αὐτῆς μιανθῶσιν πολλοί, <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.16 </char><char style="xq" closed="false">Ἠσαῦ … ἑαυτοῦ </char><char style="xt" closed="false"><ref loc="GEN 25:33-34">Gn 25.33‑34</ref></char></note>μή τις πόρνος ἢ βέβηλος ὡς Ἠσαῦ, ὃς ἀντὶ βρώσεως μιᾶς ἀπέδετο τὰ πρωτοτόκια ἑαυτοῦ. <verse number="17" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.17 </char><char style="xt" closed="false"><ref loc="GEN 27:30-40">Gn 27.30‑40</ref></char></note>ἴστε γὰρ ὅτι καὶ μετέπειτα θέλων κληρονομῆσαι τὴν εὐλογίαν ἀπεδοκιμάσθη, μετανοίας γὰρ τόπον οὐχ εὗρεν καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν.</para>
+  <para style="p">
+    <verse number="18" style="v" />Οὐ γὰρ προσεληλύθατε ψηλαφωμένῳ<note caller="3" style="f"><char style="fr" closed="false">12.18 </char><char style="ft" closed="false">{B} </char><char style="fk" closed="false">ψηλαφωμένῳ </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A C 048 33 81 1175 <char style="it">l</char> 593 it<char style="add">ar, b, comp, (d), (z)</char> vg<char style="add">ww, st</char> syr<char style="add">p</char> cop<char style="add">sa, bo</char> eth (Origen<char style="add">lat1/2</char>) ⫽ </char><char style="fk" closed="false">ψηλαφωμένῳ ὄρει </char><char style="ft" closed="false">D (Ψ </char><char style="fk" closed="false">ἐψηλαφημένῳ</char><char style="ft" closed="false">) 0150 6 104 256 263 365 424 436 459 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K L P] <char style="it">Lect</char> vg<char style="add">cl</char> (Origen<char style="add">lat1/2</char>) NIV LB BTI ⫽ </char><char style="fk" closed="false">ὄρει ψηλαφωμένῳ </char><char style="ft" closed="false">69 syr<char style="add">h</char> arm geo slav Chrysostom</char></note> καὶ κεκαυμένῳ πυρὶ καὶ γνόφῳ καὶ ζόφῳ καὶ θυέλλῃ <verse number="19" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.18‑19 </char><char style="xt" closed="false"><ref loc="EXO 19:16-22">Ex 19.16‑22</ref>; <ref loc="EXO 20:18-21">20.18‑21</ref>; <ref loc="DEU 4:11-12">Dt 4.11‑12</ref>; <ref loc="DEU 5:22-27">5.22‑27</ref></char></note>καὶ σάλπιγγος ἤχῳ καὶ φωνῇ ῥημάτων, ἧς οἱ ἀκούσαντες παρῃτήσαντο μὴ προστεθῆναι αὐτοῖς λόγον, <verse number="20" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.20 </char><char style="xq" closed="false">Κἂν … λιθοβοληθήσεται </char><char style="xt" closed="false"><ref loc="EXO 19:12-13">Ex 19.12‑13</ref></char></note>οὐκ ἔφερον γὰρ τὸ διαστελλόμενον, <char style="qt">Κἂν θηρίον θίγῃ τοῦ ὄρους, λιθοβοληθήσεται·</char> <verse number="21" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.21 </char><char style="xq" closed="false">Ἔκφοβός εἰμι </char><char style="xt" closed="false"><ref loc="DEU 9:19">Dt 9.19</ref></char></note>καί, οὕτως φοβερὸν ἦν τὸ φανταζόμενον, Μωϋσῆς εἶπεν, <char style="qt">Ἔκφοβός εἰμι</char> καὶ ἔντρομος. <verse number="22" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.22 </char><char style="xq" closed="false">Ἰερουσαλὴμ ἐπουρανίῳ </char><char style="xt" closed="false"><ref loc="GAL 4:26">Ga 4.26</ref>; <ref loc="REV 21:2">Re 21.2</ref> </char><char style="xq" closed="false">μυριάσιν ἀγγέλων </char><char style="xt" closed="false"><ref loc="REV 5:11">Re 5.11</ref></char></note>ἀλλὰ προσεληλύθατε Σιὼν ὄρει καὶ πόλει θεοῦ ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ, καὶ μυριάσιν ἀγγέλων,<note caller="a" style="f"><char style="fr" closed="false">12.22 </char><char style="ft" closed="false">NO C: NIV NRSV NBS<char style="add">mg</char> TOB BTI DHH ⫽ as text: NRSV<char style="add">mg</char> </char><char style="fk" closed="false">||</char></note> πανηγύρει<note caller="b" style="f"><char style="fr" closed="false">12.22 </char><char style="ft" closed="false">C: NIV NRSV NBS<char style="add">mg</char> TOB BTI DHH ⫽ as text: NRSV<char style="add">mg</char></char></note> <verse number="23" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.23 </char><char style="xq" closed="false">ἀπογεγραμμένων ἐν οὐρανοῖς </char><char style="xt" closed="false"><ref loc="LUK 10:20">Lk 10.20</ref> </char><char style="xq" closed="false">κριτῇ θεῷ πάντων </char><char style="xt" closed="false"><ref loc="GEN 18:25">Gn 18.25</ref>; <ref loc="PSA 50:6">Ps 50.6</ref></char></note>καὶ ἐκκλησίᾳ πρωτοτόκων ἀπογεγραμμένων ἐν οὐρανοῖς καὶ κριτῇ θεῷ πάντων καὶ πνεύμασιν δικαίων τετελειωμένων <verse number="24" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.24 </char><char style="xq" closed="false">διαθήκης … Ἰησοῦ </char><char style="xt" closed="false"><ref loc="HEB 7:22">He 7.22</ref>; <ref loc="HEB 8:6">8.6</ref>; <ref loc="HEB 9:15">9.15</ref> </char><char style="xq" closed="false">αἵματι ῥαντισμοῦ </char><char style="xt" closed="false"><ref loc="1PE 1:2">1 Pe 1.2</ref> </char><char style="xq" closed="false">παρὰ τὸν Ἅβελ </char><char style="xt" closed="false"><ref loc="GEN 4:10">Gn 4.10</ref></char></note>καὶ διαθήκης νέας μεσίτῃ Ἰησοῦ καὶ αἵματι ῥαντισμοῦ κρεῖττον λαλοῦντι παρὰ τὸν Ἅβελ.</para>
+  <para style="p">
+    <verse number="25" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">12.25 </char>
+      <char style="xq" closed="false">εἰ … ἀποστρεφόμενοι </char>
+      <char style="xt" closed="false">
+        <ref loc="HEB 2:1-3">He 2.1‑3</ref>; <ref loc="HEB 10:28-29">10.28‑29</ref></char>
+    </note>Βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα· εἰ γὰρ ἐκεῖνοι οὐκ ἐξέφυγον ἐπὶ γῆς παραιτησάμενοι τὸν χρηματίζοντα, πολὺ μᾶλλον ἡμεῖς οἱ τὸν ἀπ᾽ οὐρανῶν ἀποστρεφόμενοι, <verse number="26" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.26 </char><char style="xq" closed="false">ἡ φωνὴ … τότε </char><char style="xt" closed="false"><ref loc="EXO 19:18">Ex 19.18</ref>; <ref loc="JDG 5:4">Jdg 5.4</ref>; <ref loc="PSA 68:8">Ps 68.8</ref> </char><char style="xq" closed="false">Ἔτι … οὐρανόν </char><char style="xt" closed="false"><ref loc="HAG 2:6">Hg 2.6</ref></char></note>οὗ ἡ φωνὴ τὴν γῆν ἐσάλευσεν τότε, νῦν δὲ ἐπήγγελται λέγων, <char style="qt">Ἔτι ἅπαξ ἐγὼ σείσω</char> οὐ μόνον <char style="qt">τὴν γῆν</char> ἀλλὰ καὶ <char style="qt">τὸν οὐρανόν.</char> <verse number="27" style="v" />τὸ δὲ Ἔτι ἅπαξ δηλοῖ [τὴν] τῶν σαλευομένων μετάθεσιν ὡς πεποιημένων, ἵνα μείνῃ τὰ μὴ σαλευόμενα. <verse number="28" style="v" />Διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν, δι᾽ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ εὐλαβείας καὶ δέους· <verse number="29" style="v" /><note caller="*" style="x"><char style="xo" closed="false">12.29 </char><char style="xq" closed="false">ὁ θεὸς … καταναλίσκον </char><char style="xt" closed="false"><ref loc="DEU 4:24">Dt 4.24</ref>; <ref loc="DEU 9:3">9.3</ref>; <ref loc="ISA 33:14">Is 33.14</ref></char></note>καὶ γὰρ ὁ θεὸς ἡμῶν πῦρ καταναλίσκον.</para>
+  <chapter number="13" style="c" />
+  <para style="s">Service Well-Pleasing to God</para>
+  <para style="p">
+    <verse number="1" style="v" />Ἡ φιλαδελφία μενέτω. <verse number="2" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.2 </char><char style="xq" closed="false">ἔλαθον … ἀγγέλους </char><char style="xt" closed="false"><ref loc="GEN 18:1-8">Gn 18.1‑8</ref>; <ref loc="GEN 19:1-3">19.1‑3</ref></char></note>τῆς φιλοξενίας μὴ ἐπιλανθάνεσθε, διὰ ταύτης γὰρ ἔλαθόν τινες ξενίσαντες ἀγγέλους. <verse number="3" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.3 </char><char style="xq" closed="false">μιμνῄσκεσθε τῶν δεσμίων </char><char style="xt" closed="false"><ref loc="MAT 25:36">Mt 25.36</ref>; <ref loc="HEB 10:34">He 10.34</ref></char></note>μιμνῄσκεσθε τῶν δεσμίων ὡς συνδεδεμένοι, τῶν κακουχουμένων ὡς καὶ αὐτοὶ ὄντες ἐν σώματι. <verse number="4" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.4 </char><char style="xq" closed="false">πόρνους … θεός </char><char style="xt" closed="false"><ref loc="GAL 5:19">Ga 5.19</ref>, <ref loc="GAL 5:21">21</ref>; <ref loc="EPH 5:5">Eph 5.5</ref></char></note>Τίμιος ὁ γάμος ἐν πᾶσιν καὶ ἡ κοίτη ἀμίαντος, πόρνους γὰρ καὶ μοιχοὺς κρινεῖ ὁ θεός. <verse number="5" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.5 </char><char style="xq" closed="false">Οὐ … ἐγκαταλίπω </char><char style="xt" closed="false"><ref loc="DEU 31:6">Dt 31.6</ref> (<ref loc="GEN 28:15">Gn 28.15</ref>; <ref loc="DEU 31:8">Dt 31.8</ref>; <ref loc="JOS 1:5">Jos 1.5</ref>)</char></note>Ἀφιλάργυρος ὁ τρόπος, ἀρκούμενοι τοῖς παροῦσιν. αὐτὸς γὰρ εἴρηκεν, <char style="qt">Οὐ μή σε ἀνῶ οὐδ᾽ οὐ μή σε ἐγκαταλίπω,</char> <verse number="6" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.6 </char><char style="xq" closed="false">Κύριος … ἄνθρωπος </char><char style="xt" closed="false"><ref loc="PSA 118:6">Ps 118.6</ref></char></note>ὥστε θαρροῦντας ἡμᾶς λέγειν,</para>
+  <para style="q1">
+    <char style="qt">Κύριος ἐμοὶ βοηθός,</char></para>
+  <para style="q2">
+    <char style="qt">[καὶ] οὐ φοβηθήσομαι,</char></para>
+  <para style="q1">
+    <char style="qt">τί ποιήσει μοι ἄνθρωπος;</char></para>
+  <para style="p">
+    <verse number="7" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">13.7 </char>
+      <char style="xq" closed="false">μιμεῖσθε τὴν πίστιν </char>
+      <char style="xt" closed="false">
+        <ref loc="1CO 4:16">1 Cor 4.16</ref>; <ref loc="HEB 6:12">He 6.12</ref></char>
+    </note>Μνημονεύετε τῶν ἡγουμένων ὑμῶν, οἵτινες ἐλάλησαν ὑμῖν τὸν λόγον τοῦ θεοῦ, ὧν ἀναθεωροῦντες τὴν ἔκβασιν τῆς ἀναστροφῆς μιμεῖσθε τὴν πίστιν. <verse number="8" style="v" />Ἰησοῦς Χριστὸς ἐχθὲς καὶ σήμερον ὁ αὐτὸς καὶ εἰς τοὺς αἰῶνας. <verse number="9" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.9 </char><char style="xq" closed="false">διδαχαῖς … παραφέρεσθε </char><char style="xt" closed="false"><ref loc="EPH 4:14">Eph 4.14</ref></char></note>διδαχαῖς ποικίλαις καὶ ξέναις μὴ παραφέρεσθε· καλὸν γὰρ χάριτι βεβαιοῦσθαι τὴν καρδίαν, οὐ βρώμασιν ἐν οἷς οὐκ ὠφελήθησαν οἱ περιπατοῦντες. <verse number="10" style="v" />ἔχομεν θυσιαστήριον ἐξ οὗ φαγεῖν οὐκ ἔχουσιν ἐξουσίαν οἱ τῇ σκηνῇ λατρεύοντες. <verse number="11" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.11 </char><char style="xt" closed="false"><ref loc="LEV 16:27">Lv 16.27</ref></char></note>ὧν γὰρ εἰσφέρεται ζῴων τὸ αἷμα περὶ ἁμαρτίας εἰς τὰ ἅγια διὰ τοῦ ἀρχιερέως, τούτων τὰ σώματα κατακαίεται ἔξω τῆς παρεμβολῆς. <verse number="12" style="v" />διὸ καὶ Ἰησοῦς, ἵνα ἁγιάσῃ διὰ τοῦ ἰδίου αἵματος τὸν λαόν, ἔξω τῆς πύλης ἔπαθεν. <verse number="13" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.13 </char><char style="xt" closed="false"><ref loc="HEB 11:26">He 11.26</ref></char></note>τοίνυν ἐξερχώμεθα πρὸς αὐτὸν ἔξω τῆς παρεμβολῆς τὸν ὀνειδισμὸν αὐτοῦ φέροντες· <verse number="14" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.14 </char><char style="xt" closed="false"><ref loc="HEB 11:10">He 11.10</ref>, <ref loc="HEB 11:16">16</ref>; <ref loc="HEB 12:22">12.22</ref></char></note>οὐ γὰρ ἔχομεν ὧδε μένουσαν πόλιν ἀλλὰ τὴν μέλλουσαν ἐπιζητοῦμεν. <verse number="15" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.15 </char><char style="xq" closed="false">θυσίαν … αὐτοῦ </char><char style="xt" closed="false"><ref loc="2CH 29:31">2 Chr 29.31</ref>; <ref loc="PSA 50:14">Ps 50.14</ref>, <ref loc="PSA 50:23">23</ref> </char><char style="xq" closed="false">καρπὸν χειλέων </char><char style="xt" closed="false"><ref loc="HOS 14:2">Ho 14.2</ref></char></note>δι᾽ αὐτοῦ [οὖν]<note caller="1" style="f"><char style="fr" closed="false">13.15 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">δι᾽ αὐτοῦ οὖν </char><char style="ft" closed="false">ℵ<char style="add">2</char> A C D<char style="add">1</char> 0150 0243 6 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> <char style="it">Lect</char> it<char style="add">ar, b, comp, z</char> vg syr<char style="add">h</char> cop<char style="add">sa, bo</char> arm slav Chrysostom Cyril ⫽ </char><char style="fk" closed="false">διὰ τοῦτο οὖν </char><char style="ft" closed="false">K <char style="it">l</char> 751 (geo) ⫽ </char><char style="fk" closed="false">δι᾽ αὐτοῦ </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ* D* P Ψ it<char style="add">d</char> cop<char style="add">bo<char style="add">mss</char></char> (Origen<char style="add">lat</char>); (Gregory-Elvira) REB BJ TOB</char></note> ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ᾽ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. <verse number="16" style="v" /><note caller="*" style="x"><char style="xo" closed="false">13.16 </char><char style="xq" closed="false">τοιαύταις … θεός </char><char style="xt" closed="false"><ref loc="PHP 4:18">Php 4.18</ref></char></note>τῆς δὲ εὐποιΐας καὶ κοινωνίας μὴ ἐπιλανθάνεσθε· τοιαύταις γὰρ θυσίαις εὐαρεστεῖται ὁ θεός.</para>
+  <para style="p">
+    <verse number="17" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">13.17 </char>
+      <char style="xq" closed="false">αὐτοὶ … ὑμῶν </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 62:6">Is 62.6</ref>; <ref loc="EZK 3:17">Eze 3.17</ref></char>
+    </note>Πείθεσθε τοῖς ἡγουμένοις ὑμῶν καὶ ὑπείκετε, αὐτοὶ γὰρ ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑμῶν ὡς λόγον ἀποδώσοντες, ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν καὶ μὴ στενάζοντες· ἀλυσιτελὲς γὰρ ὑμῖν τοῦτο.</para>
+  <para style="p">
+    <verse number="18" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">13.18 </char>
+      <char style="xq" closed="false">καλὴν … ἀναστρέφεσθαι </char>
+      <char style="xt" closed="false">
+        <ref loc="ACT 24:16">Ac 24.16</ref>; <ref loc="2CO 1:12">2 Cor 1.12</ref></char>
+    </note>Προσεύχεσθε περὶ ἡμῶν· πειθόμεθα γὰρ ὅτι καλὴν συνείδησιν ἔχομεν, ἐν πᾶσιν καλῶς θέλοντες ἀναστρέφεσθαι. <verse number="19" style="v" />περισσοτέρως δὲ παρακαλῶ τοῦτο ποιῆσαι, ἵνα τάχιον ἀποκατασταθῶ ὑμῖν.</para>
+  <para style="s">Benediction and Final Greetings</para>
+  <para style="p">
+    <verse number="20" style="v" />
+    <note caller="*" style="x">
+      <char style="xo" closed="false">13.20 </char>
+      <char style="xq" closed="false">ὁ ἀναγαγὼν … προβάτων </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 63:11">Is 63.11</ref> </char>
+      <char style="xq" closed="false">τὸν ποιμένα … μέγαν </char>
+      <char style="xt" closed="false">
+        <ref loc="1PE 2:25">1 Pe 2.25</ref> </char>
+      <char style="xq" closed="false">αἵματι διαθήκης </char>
+      <char style="xt" closed="false">
+        <ref loc="ZEC 9:11">Zch 9.11</ref> </char>
+      <char style="xq" closed="false">διαθήκης αἰωνίου </char>
+      <char style="xt" closed="false">
+        <ref loc="ISA 55:3">Is 55.3</ref>; <ref loc="JER 32:40">Jr 32.40</ref>; <ref loc="EZK 37:26">Eze 37.26</ref></char>
+    </note>Ὁ δὲ θεὸς τῆς εἰρήνης, ὁ ἀναγαγὼν ἐκ νεκρῶν τὸν ποιμένα τῶν προβάτων τὸν μέγαν ἐν αἵματι διαθήκης αἰωνίου, τὸν κύριον ἡμῶν Ἰησοῦν, <verse number="21" style="v" />καταρτίσαι ὑμᾶς ἐν παντὶ ἀγαθῷ<note caller="2" style="f"><char style="fr" closed="false">13.21 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">παντὶ ἀγαθῷ </char><char style="ft" closed="false">(𝔓<char style="add">46</char> </char><char style="fk" closed="false">τῷ ἀγαθῷ</char><char style="ft" closed="false">) ℵ D* Ψ it<char style="add">ar, b, comp, d, z</char> vg cop<char style="add">bo</char> geo<char style="add">1</char> Fulgentius<char style="add">6/7</char> ⫽ </char><char style="fk" closed="false">παντὶ ἔργῳ ἀγαθῷ </char><char style="ft" closed="false">C D<char style="add">2</char> 0150 0243 6 33 81 104 256 263 365 424 436 459 1175 1241 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K P] <char style="it">Lect</char> vg<char style="add">mss</char> syr<char style="add">p, (h)</char> cop<char style="add">sa</char> (arm <char style="it">omit</char> </char><char style="fk" closed="false">παντί</char><char style="ft" closed="false">) eth geo<char style="add">2</char> slav Chrysostom Theodoret; Fulgentius<char style="add">1/7</char> BTI ⫽ </char><char style="fk" closed="false">παντὶ ἔργῳ καὶ λόγῳ ἀγαθῷ </char><char style="ft" closed="false">(<char style="it">see</char> <char style="xt"><ref loc="2TH 2:17">2 Th 2.17</ref>)</char> A</char></note> εἰς τὸ ποιῆσαι τὸ θέλημα αὐτοῦ, ποιῶν ἐν ἡμῖν<note caller="3" style="f"><char style="fr" closed="false">13.21 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">ἡμῖν </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ A D 0243 33 81 104 365 424* 436 459 1175 1241 1739 1852 1881 1912 1962 <char style="it">Byz</char><char style="add">pt</char> [K] <char style="it">Lect</char><char style="add">pt</char> syr<char style="add">p</char> cop<char style="add">sa, bo</char> arm geo slav ⫽ </char><char style="fk" closed="false">ὑμῖν </char><char style="ft" closed="false">C Ψ 0150 6 256 263 424<char style="add">c</char> 1319 1573 2127 2200 <char style="it">Byz</char><char style="add">pt</char> [P] <char style="it">Lect</char><char style="add">pt, AD</char> it<char style="add">ar, b, comp, d, z</char> vg syr<char style="add">h</char> eth Gregory-Nyssa Chrysostom Theodoret</char></note> τὸ εὐάρεστον ἐνώπιον αὐτοῦ διὰ Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας [τῶν αἰώνων]<note caller="4" style="f"><char style="fr" closed="false">13.21 </char><char style="ft" closed="false">{C} </char><char style="fk" closed="false">τῶν αἰώνων </char><char style="ft" closed="false">ℵ A (C*) 0150 0243 33 81 424 1739 1852 1881 1912 1962 2200 <char style="it">Byz</char> [K P] <char style="it">l</char> 590 <char style="it">l</char> 597 <char style="it">l</char> 884 <char style="it">l</char> 895 <char style="it">l</char> 1159 <char style="it">l</char><char style="add">AD</char> it<char style="add">ar, b, comp, z</char> vg syr<char style="add">p</char> cop<char style="add">sa<char style="add">mss</char>, bo</char> eth geo slav Chrysostom ⫽ <char style="it">omit</char> 𝔓<char style="add">46</char> C<char style="add">3</char> D Ψ 6 104 256 263 365 436 459 1241 1319 1573 2127 <char style="it">Lect</char> vg<char style="add">ms</char> syr<char style="add">h</char> cop<char style="add">sa<char style="add">mss</char></char> arm Theodoret</char></note>, ἀμήν.</para>
+  <para style="p">
+    <verse number="22" style="v" />Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, ἀνέχεσθε τοῦ λόγου τῆς παρακλήσεως, καὶ γὰρ διὰ βραχέων ἐπέστειλα ὑμῖν. <verse number="23" style="v" />Γινώσκετε τὸν ἀδελφὸν ἡμῶν Τιμόθεον ἀπολελυμένον, μεθ᾽ οὗ ἐὰν τάχιον ἔρχηται ὄψομαι ὑμᾶς.</para>
+  <para style="p">
+    <verse number="24" style="v" />Ἀσπάσασθε πάντας τοὺς ἡγουμένους ὑμῶν καὶ πάντας τοὺς ἁγίους. ἀσπάζονται ὑμᾶς οἱ ἀπὸ τῆς Ἰταλίας. <verse number="25" style="v" />ἡ χάρις μετὰ πάντων ὑμῶν.<note caller="5" style="f"><char style="fr" closed="false">13.25 </char><char style="ft" closed="false">{A} </char><char style="fk" closed="false">πάντων ὑμῶν. </char><char style="ft" closed="false">𝔓<char style="add">46</char> ℵ* I<char style="add">vid</char> 33 it<char style="add">comp</char> vg<char style="add">mss</char> cop<char style="add">sa</char> arm<char style="add">ms</char> ⫽ </char><char style="fk" closed="false">πάντων ὑμῶν. ἀμήν. </char><char style="ft" closed="false">ℵ<char style="add">2</char> A C D<char style="add">2</char> H Ψ 0150 0243 6 81 104 256 263 365 424 436 459 1319 1573 1739 1852 1881 1912 1962 2127 2200 <char style="it">Byz</char> [K P] <char style="it">Lect</char> it<char style="add">ar, b, z</char> vg syr<char style="add">p, h</char> cop<char style="add">bo</char> arm<char style="add">ms</char> eth geo slav Chrysostom ⫽ </char><char style="fk" closed="false">πάντων ἡμῶν. ἀμήν. </char><char style="ft" closed="false">1241 ⫽ </char><char style="fk" closed="false">πάντων τῶν ἁγίων. ἀμήν. </char><char style="ft" closed="false">D*</char></note></para>
+</usx>

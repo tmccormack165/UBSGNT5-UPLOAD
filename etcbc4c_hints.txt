@@ -1,0 +1,6 @@
+hints
+	self - INTEGER
+	hint - TEXT
+
+When Bible OL needs to list the available databases, it searches for files with names that end in .db.json.
+

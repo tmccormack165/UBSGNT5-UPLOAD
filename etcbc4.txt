@@ -1,0 +1,19 @@
+lexemes
+	id - INTEGER
+	lex - TEXT
+lexsuf
+	id - INTEGER
+	lexid - INTEGER
+	sufid - INTEGER
+lextext
+	id - INTEGER
+	lexid - INTEGER
+	textid - INTEGER
+suffixes
+	id - INTEGER
+	suffix - BLOB
+	suffix_translit - BLOB
+texts
+	id - INTEGER
+	word - BLOB
+	word_translit - BLOB
